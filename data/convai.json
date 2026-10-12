@@ -1,0 +1,1407 @@
+{
+ "17": {
+  "year": 2017,
+  "edition": "1st",
+  "conf": "NIPS 2017",
+  "city": "Long Beach, CA",
+  "date": "December 8, 2017",
+  "location": "Long Beach Convention Center, Grand Ballroom B",
+  "location_url": "https://www.google.com/maps/place/Long+Beach+Convention+Center",
+  "chairs": [
+   [
+    "Alborz Geramifard",
+    "Amazon",
+    "http://alborz-geramifard.com"
+   ],
+   [
+    "Jason Williams",
+    "Microsoft Research",
+    "https://www.microsoft.com/en-us/research/people/jawillia/"
+   ]
+  ],
+  "organizers": [
+   [
+    "Antoine Bordes",
+    "Facebook AI Research",
+    "https://research.fb.com/people/bordes-antoine/"
+   ],
+   [
+    "Larry Heck",
+    "Google",
+    "https://research.google.com/pubs/LarryHeck.html"
+   ],
+   [
+    "Jim Glass",
+    "MIT",
+    "http://groups.csail.mit.edu/sls/people/glass.shtml"
+   ],
+   [
+    "Steve Young",
+    "University of Cambridge",
+    "http://mi.eng.cam.ac.uk/~sjy/"
+   ],
+   [
+    "Gerald Tesauro",
+    "IBM Research",
+    "http://researcher.watson.ibm.com/researcher/view.php?person=us-gtesauro"
+   ]
+  ],
+  "speakers": [
+   [
+    "Satinder Singh",
+    "University of Michigan",
+    "http://web.eecs.umich.edu/~baveja/"
+   ],
+   [
+    "Joelle Pineau",
+    "McGill University / Facebook",
+    "http://www.cs.mcgill.ca/~jpineau/"
+   ],
+   [
+    "Ashwin Ram",
+    "Amazon",
+    "https://www.amazon.jobs/en/pioneers/ashwin-r"
+   ],
+   [
+    "Blaise Thomson",
+    "Apple",
+    "http://mi.eng.cam.ac.uk/~brmt2/"
+   ],
+   [
+    "Asli Celikyilmaz",
+    "Microsoft Research",
+    "https://www.microsoft.com/en-us/research/people/aslicel/"
+   ],
+   [
+    "Jianfeng Gao",
+    "Microsoft Research",
+    "https://www.microsoft.com/en-us/research/people/jfgao/"
+   ],
+   [
+    "Matt Henderson",
+    "Google",
+    "http://www.matthen.com/research/"
+   ],
+   [
+    "Dilek Hakkani-Tür",
+    "Google",
+    "https://research.google.com/pubs/104927.html"
+   ],
+   [
+    "David Nahamoo",
+    "IBM",
+    "https://www.research.ibm.com/haifa/Workshops/speech2008/nahamoo_bio.shtml"
+   ]
+  ],
+  "stats": "9 invited talks · 26 submissions · 3 oral papers · 13 accepted papers · 37 reviewers",
+  "title": "Today's Practice and Tomorrow's Potential",
+  "description": [
+   "In the span of only a few years, conversational systems have become commonplace. Every day, millions of people use natural-language interfaces such as Siri, Google Now, Cortana, Alexa, Facebook M and others via in-home devices, phones, or messaging channels such as Messenger, Slack, Skype, among others. At the same time, interest among the research community in conversational systems has blossomed; For supervised and reinforcement learning, conversational systems often serve as both a benchmark task and an inspiration for new ML methods at conferences which don't focus on speech and language per se, such as NIPS, ICML, IJCAI, and others. Research community challenge tasks are proliferating, including the sixth Dialog Systems Technology Challenge (DSTC6), the Amazon Alexa prize, and the Conversational Intelligence Challenge live competition at NIPS 2017. Now more than ever, it is crucial to promote cross-pollination of ideas between academic research centers and industry. The goal of this workshop is to bring together researchers and practitioners in this area, to clarify impactful research problems, to share findings from large-scale real-world deployments, and to generate new ideas for future lines of research. This workshop will include invited talks from academia and industry, contributed work, and open discussion. In these talks, senior technical leaders from many of the most popular conversational services will give insights into real usage and challenges at scale. An open call for papers will be issued, and we will prioritize forward-looking papers that propose interesting and impactful contributions. We will end the day with an open discussion, including a panel consisting of academic and industrial researchers."
+  ],
+  "description_links": [],
+  "cfp": [
+   "We invite you to submit your contributions here in the area of conversational AI by November 1st 11:59 PM EST in NIPS style with 2-4 pages with maximum of 8 pages. You do not need to anonymize your submissions. Notifications will be sent out by November 21st . Selected papers will be presented through invited talks or posters (max size of 36 x 48in)."
+  ],
+  "dates": [
+   [
+    "Submission",
+    "1 November 2017 11:59 PM EST"
+   ],
+   [
+    "Notification",
+    "21 November 2017"
+   ],
+   [
+    "Camera Ready",
+    "28 November 2017"
+   ],
+   [
+    "Registration",
+    "see NIPS website"
+   ],
+   [
+    "Workshop",
+    "8 December 2017"
+   ]
+  ],
+  "schedule": [
+   {
+    "time": "9:00-9:10",
+    "what": "Opening Remarks - Alborz Geramifard (Amazon)",
+    "links": []
+   },
+   {
+    "time": "9:10-9:50",
+    "what": "Invited Talk: - Satinder Singh (UMich)",
+    "links": []
+   },
+   {
+    "time": "9:50-10:10",
+    "what": "Accepted Talk: An Ensemble Model with Ranking for Social Dialogue",
+    "links": []
+   },
+   {
+    "time": "10:10-10:30",
+    "what": "Accepted Talk: A Deep Reinforcement Learning Chatbot",
+    "links": []
+   },
+   {
+    "time": "10:30-11:00",
+    "what": "Coffee Break / Hangup Posters",
+    "links": []
+   },
+   {
+    "time": "11:00-11:40",
+    "what": "Invited Talk: Social and Ethical Aspects of Dialogue Systems - Joelle Pineau (McGill/Facebook)",
+    "links": []
+   },
+   {
+    "time": "11:40-12:00",
+    "what": "Accepted Talk: Multi-Domain Adversarial Learning for Slot Filling in Spoken Language Understanding",
+    "links": []
+   },
+   {
+    "time": "12:00-1:30",
+    "what": "Lunch Break",
+    "links": []
+   },
+   {
+    "time": "1:30-2:10",
+    "what": "Invited Talk: Conversational AI at Scale: The Science behind the Alexa Prize - Ashwin Ram (Amazon)",
+    "links": []
+   },
+   {
+    "time": "2:10-2:50",
+    "what": "Invited Talk: Evolution of Siri - Blaise Thomson (Apple)",
+    "links": []
+   },
+   {
+    "time": "2:50-3:05",
+    "what": "One Minute Poster Spotlight",
+    "links": []
+   },
+   {
+    "time": "3:05-3:30",
+    "what": "Coffee Break / Poster Session",
+    "links": []
+   },
+   {
+    "time": "3:30-3:50",
+    "what": "Invited Talk: Neural Models for Text Generation - Asli Celikyilmaz (Microsoft Research)",
+    "links": []
+   },
+   {
+    "time": "3:50-4:10",
+    "what": "Invited Talk: Composite task completion bot with Hierarchical RL - Jianfeng Gao (Microsoft Research)",
+    "links": [
+     [
+      "Slides",
+      "files/nips17-Conversational-AI/Slides/Conversational AI Workshop-NIPS2017-JianfengGao.pdf"
+     ]
+    ]
+   },
+   {
+    "time": "4:10-4:30",
+    "what": "Invited Talk: Smart reply and Implicit semantics - Matt Henderson (Google)",
+    "links": [
+     [
+      "Slides",
+      "files/nips17-Conversational-AI/Slides/Conversational AI Workshop-NIPS2017-smart reply and implicit semantics.pdf"
+     ]
+    ]
+   },
+   {
+    "time": "4:30-4:50",
+    "what": "Invited Talk: Conversational Machines: Deep Learning for Goal Oriented Dialogue Systems - Dilek Hakkani-Tur (Google)",
+    "links": []
+   },
+   {
+    "time": "4:50-5:20",
+    "what": "Poster Session",
+    "links": []
+   },
+   {
+    "time": "5:20-6:00",
+    "what": "Invited Talk: Quantized Dialog - David Nahamoo (IBM)",
+    "links": [
+     [
+      "Slides",
+      "files/nips17-Conversational-AI/Slides/Conversational AI Workshop-NIPS2017-Quantized Dialogs.pdf"
+     ]
+    ]
+   },
+   {
+    "time": "6:00-6:50",
+    "what": "Panel / Open Discussion - All Organizers (submit questions here and enter your info here for Echo Dot raffle)",
+    "links": []
+   },
+   {
+    "time": "6:50-7:00",
+    "what": "Closing Remarks - Jason Williams (Microsoft Research)",
+    "links": []
+   }
+  ],
+  "talks": [
+   {
+    "title": "An Ensemble Model with Ranking for Social Dialogue",
+    "pdf": "files/nips17-Conversational-AI/Papers/17nipsw-cai-ensemble.pdf",
+    "authors": "Ioannis Papaioannou, Amanda Cercas Curry, Jose L. Part, Igor Shalyminov, Xinnuo Xu, Yanchao, Yu Ondrej Dušek, Verena Rieser, and Oliver Lemon",
+    "award": false
+   },
+   {
+    "title": "A Deep Reinforcement Learning Chatbot",
+    "pdf": "files/nips17-Conversational-AI/Papers/17nipsw-cai-deeprl-chatbot.pdf",
+    "authors": "Iulian V. Serban, Chinnadhurai Sankar, Mathieu Germain, Saizheng Zhang, Zhouhan Lin, Sandeep Subramanian, Taesup Kim, Michael Pieper, Sarath Chandar, Nan Rosemary Ke, Sai Rajeshwar, Alexandre de Brebisson, Jose M. R. Sotelo, Dendi Suhubdy, Vincent Michalski, Alexandre Nguyen, Joelle Pineau, and Yoshua Bengio",
+    "award": false
+   },
+   {
+    "title": "Multi-Domain Adversarial Learning for Slot Filling in Spoken Language Understanding",
+    "pdf": "files/nips17-Conversational-AI/Papers/17nipsw-cai-Multi_Domain_Adversarial_SLU_cameraReady.pdf",
+    "authors": "Bing Liu, and Ian Lane",
+    "award": false
+   }
+  ],
+  "posters": [
+   {
+    "title": "Personalization in Goal-oriented Dialog",
+    "pdf": "files/nips17-Conversational-AI/Papers/17nipsw-cai-Personalization_in_Goal-oriented_Dialog.pdf",
+    "authors": "Chaitanya Joshi, Fei Mi, and Boi Faltings",
+    "award": false
+   },
+   {
+    "title": "Soc2Seq: Social Embedding meets Conversation Model",
+    "pdf": "files/nips17-Conversational-AI/Papers/17nipsw-cai-soc2seq.pdf",
+    "authors": "Parminder Bhatia, Marsal Gavaldà, and Arash Einolghozati",
+    "award": false
+   },
+   {
+    "title": "Rasa: Open Source Language Understanding and Dialogue Management",
+    "pdf": "files/nips17-Conversational-AI/Papers/17nipsw-cai-rasa.pdf",
+    "authors": "Tom Bocklisch, Joey Faulkner, Nick Pawlowski Rasa, and Alan Nichol",
+    "award": false
+   },
+   {
+    "title": "Just ASK: Building an Architecture for Extensible Self-Service Spoken Language Understanding",
+    "pdf": "files/nips17-Conversational-AI/Papers/17nipsw-cai-just-ask.pdf",
+    "authors": "Anjishnu Kumar, Arpit Gupta, Julian Chan, Sam Tucker, Bjorn Hoffmeister, and Markus Dreyer",
+    "award": false
+   },
+   {
+    "title": "Achieving Fluency and Coherency in Task-oriented Dialog",
+    "pdf": "files/nips17-Conversational-AI/Papers/17nipsw-cai-task_oriented_dialog.pdf",
+    "authors": "Rashmi Gangadharaiah, Balakrishnan Narayanaswamy, and Charles Elkan",
+    "award": false
+   },
+   {
+    "title": "DialPort: Real-World Data for Academia Spoken Dialog Systems",
+    "pdf": "files/nips17-Conversational-AI/Papers/17nipsw-cai-dialport.pdf",
+    "authors": "Tiancheng Zhao, Yulun Du, Kyusong Lee, and Maxine Eskenazi",
+    "award": false
+   },
+   {
+    "title": "End-to-End Optimization of Task-Oriented Dialogue Model with Deep Reinforcement Learning",
+    "pdf": "files/nips17-Conversational-AI/Papers/17nipsw-cai-e2e-optimization.pdf",
+    "authors": "Bing Liu, Gokhan Tür, Dilek Hakkani-Tür, Pararth Shah, and Larry Heck",
+    "award": false
+   },
+   {
+    "title": "On Evaluating and Comparing Conversational Agents",
+    "pdf": "files/nips17-Conversational-AI/Papers/17nipsw-cai-evaluating_conversational.pdf",
+    "authors": "Anu Venkatesh, Chandra Khatri, Ashwin Ram, Fenfei Guo, Raefer Gabriel, Ashish Nagar, Rohit Prasad, Ming Cheng, Behnam Hedayatnia, Angeliki Metallinou, Rahul Goel, Shaohua Yang, and Anirudh Raju",
+    "award": false
+   },
+   {
+    "title": "Topic-based Evaluation for Conversational Bots",
+    "pdf": "files/nips17-Conversational-AI/Papers/17nipsw-cai-topic_based_evaluation.pdf",
+    "authors": "Fenfei Guo, Angeliki Metallinou, Chandra Khatri, Anirudh Raju, Anu Venkatesh, and Ashwin Ram",
+    "award": false
+   },
+   {
+    "title": "Differentiable lower bound for expected BLEU score",
+    "pdf": "files/nips17-Conversational-AI/Papers/17nipsw-cai-expectedBLEU.pdf",
+    "authors": "Maksim Kretov, and Vlad Zhukov",
+    "award": false
+   },
+   {
+    "title": "Learning Robust Dialog Policies in Noisy Environments",
+    "pdf": "files/nips17-Conversational-AI/Papers/17nipsw-cai-deep-rl-dialog.pdf",
+    "authors": "Maryam Fazel-Zarandi, Shang-Wen Li, Jin Cao, Jared Casale, David Whitney, and Alborz Geramifard",
+    "award": false
+   },
+   {
+    "title": "Collaboration-based User Simulation for Goal-oriented Dialogue Systems",
+    "pdf": "files/nips17-Conversational-AI/Papers/17nipsw-cai-collaboration-based-simulator.pdf",
+    "authors": "Devin Didericksen, Oleg Rokhlenko, Kevin Small, and Li Zhou",
+    "award": false
+   },
+   {
+    "title": "End-to-End Offline Goal-Oriented Dialog Policy Learning via Policy Gradient",
+    "pdf": "files/nips17-Conversational-AI/Papers/17nipsw-cai-e2e-offline-policy-learning.pdf",
+    "authors": "Li Zhou, Kevin Small, Oleg Rokhlenko, and Charles Elkan",
+    "award": false
+   }
+  ],
+  "pc": [
+   "Alexandros Papangelis (Toshiba Research Europe Limited)",
+   "Amina Shabbeer (Amazon)",
+   "Chandra Khatri (Amazon)",
+   "Ethan Selfridge (Interactions Corporation)",
+   "Heriberto Cuayahuitl (University of Lincoln)",
+   "Imed Zitouni (Microsoft)",
+   "Kallirroi Georgila (USC Institute for Creative Technologies)",
+   "Kazunori Komatani (Osaka University)",
+   "Kevin Small (Amazon)",
+   "Lambert Mathias (Amazon)",
+   "Lihong Li (Google)",
+   "Masahiro Araki (Kyoto Institute of Technology)",
+   "Matthew Henderson (Google)",
+   "Michel Galley (Microsoft)",
+   "Nate Blaylock (Nuance Communications)",
+   "Nina Dethlefs (University of Hull)",
+   "Parminder Bhatia (Amazon)",
+   "Paul Crook (Microsoft)",
+   "Praveen Bodigutla (Amazon)",
+   "Rafael E. Banchs (Institute for Info comm Research)",
+   "Ravi Jain (Amazon)",
+   "Ron Artstein (USC Institute for Creative Technologies)",
+   "Rudolf Kadlec (IBM)",
+   "Ryuichiro Higashinaka (Nippon Telegraph and Telephone Corporation)",
+   "Satoshi Nakaura (Nara Institute of Science and Technology)",
+   "Simon Keizer (Heriot-Watt University)",
+   "Stefan Ultes (Cambridge University)",
+   "Sungjin Lee (Microsoft Research)",
+   "Tatsuya Kawahara (Kyoto University)",
+   "Yan Yang (Amazon)"
+  ],
+  "best_paper_note": ""
+ },
+ "18": {
+  "year": 2018,
+  "edition": "2nd",
+  "conf": "NeurIPS 2018",
+  "city": "Montréal, Canada",
+  "date": "December 7, 2018",
+  "location": "Palais des Congrès de Montréal, Room 519",
+  "location_url": "https://www.google.com/maps/place/Montreal+Convention+Centre/@45.505151,-73.559786,15z/data=!4m2!3m1!1s0x0:0x17d4bd31b9103f97",
+  "chairs": [
+   [
+    "Alborz Geramifard",
+    "Facebook",
+    "http://alborz-geramifard.com"
+   ],
+   [
+    "Jason Williams",
+    "Apple",
+    "https://scholar.google.com/citations?user=CcLxiyMAAAAJ&hl=en"
+   ]
+  ],
+  "organizers": [
+   [
+    "Larry Heck",
+    "Samsung Research America",
+    "https://scholar.google.com/citations?user=33ZWJmEAAAAJ&hl=en"
+   ],
+   [
+    "Jim Glass",
+    "MIT",
+    "http://groups.csail.mit.edu/sls/people/glass.shtml"
+   ],
+   [
+    "Y-Lan Boureau",
+    "Facebook AI Research",
+    "https://research.fb.com/people/boureau-y-lan/"
+   ],
+   [
+    "Steve Young",
+    "University of Cambridge",
+    "http://mi.eng.cam.ac.uk/~sjy/"
+   ],
+   [
+    "Dilek Hakkani-Tür",
+    "Amazon",
+    "https://scholar.google.com/citations?user=GMcL_9kAAAAJ&hl=en"
+   ],
+   [
+    "Milica Gašić",
+    "University of Cambridge",
+    "http://mi.eng.cam.ac.uk/~mg436/"
+   ],
+   [
+    "Maxine Eskenazi",
+    "Carnegie Mellon University",
+    "http://www.cs.cmu.edu/~max/"
+   ],
+   [
+    "Lazaros Polymenakos",
+    "IBM",
+    "https://www.linkedin.com/in/lazaros-polymenakos-54983b6/"
+   ]
+  ],
+  "speakers": [
+   [
+    "Mari Ostendorf",
+    "University of Washington",
+    null
+   ],
+   [
+    "Alexander Rudnicky",
+    "Carnegie Mellon University",
+    null
+   ],
+   [
+    "Ruhi Sarikaya",
+    "Amazon",
+    null
+   ],
+   [
+    "Lazaros Polymenakos",
+    "IBM",
+    "https://www.linkedin.com/in/lazaros-polymenakos-54983b6/"
+   ]
+  ],
+  "stats": "4 invited talks · 42 submissions · 6 oral papers · 23 accepted papers · 58 reviewers",
+  "title": "Today's Practice and Tomorrow's Potential",
+  "description": [
+   "In the span of only a few years, conversational systems have become commonplace. Every day, millions of people use natural-language interfaces such as Siri, Google Now, Cortana, Alexa and others via in-home devices, phones, or messaging channels such as Messenger, Slack, Skype, among others. At the same time, interest among the research community in conversational systems has blossomed: for supervised and reinforcement learning, conversational systems often serve as both a benchmark task and an inspiration for new ML methods at conferences which don't focus on speech and language per se, such as NeurIPS, ICML, IJCAI, and others. Research community challenge tasks are proliferating, including the seventh Dialog Systems Technology Challenge (DSTC7), the Amazon Alexa prize, and the Conversational Intelligence Challenge live competitions at NeurIPS (2017, 2018).",
+   "Following the overwhelming participation in our last year NeurIPS workshop (9 invited talks, 26 submissions, 3 orals papers, 13 accepted papers, 37 PC members, and couple of hundreds of participants), we are excited to continue promoting cross-pollination of ideas between academic research centers and industry. The goal of this workshop is to bring together researchers and practitioners in this area, to clarify impactful research problems, share findings from large-scale real-world deployments, and generate new ideas for future lines of research.",
+   "This workshop will include invited talks, contributed work, and open discussion. In these talks, senior technical leaders from both academia and industry will give insights into real usage and challenges at scale. An open call for papers will be issued, and we will prioritize forward-looking papers that propose interesting and impactful contributions. We will end the day with an open discussion, including a panel consisting of academic and industrial researchers."
+  ],
+  "description_links": [
+   [
+    "last year NeurIPS workshop",
+    "http://alborz-geramifard.com/workshops/nips17-Conversational-AI/Main.html"
+   ]
+  ],
+  "cfp": [
+   "We invite you to submit your contributions here in the area of conversational AI by October 25th 11:59 PM EST in NeurIPS style with maximum of 8 pages excluding the references. You can add supplementary material in addition to 8 pages, but reviewers are not required to review the extra material (e.g. your paper should stand on its own without the supplementary material). Notifications will be sent out by November 21st . Selected papers will be presented through invited talks or posters. Maximum allowed size of posters is 36 x 48 inch (91 x 122 cm). Notice that our workshop is not archival. However, accepted submission will be hosted on this website similar to last year’s workshop. Given authors concern around posting their submissions to arXiv the organizing committed decided to lift the anonymity requirement for our workshop. This means the anonymity will be optional and decided by the authors. Hence, you can post your submissions to arXiv. For further questions, feel free to reach out to co-chairs through email."
+  ],
+  "dates": [
+   [
+    "Submission",
+    "25 October 2018 11:59 PM EST"
+   ],
+   [
+    "Notification",
+    "21 November 2018"
+   ],
+   [
+    "Camera Ready",
+    "28 November 2018"
+   ],
+   [
+    "Registration",
+    "see NeurIPS website"
+   ],
+   [
+    "Workshop",
+    "7 December 2018"
+   ]
+  ],
+  "schedule": [
+   {
+    "time": "9:00-9:10",
+    "what": "Opening Remarks (Alborz Geramifard)",
+    "links": []
+   },
+   {
+    "time": "9:10-9:40",
+    "what": "Invited Talk: Modeling the User in Socialbot Conversations (Mari Ostendorf)",
+    "links": []
+   },
+   {
+    "time": "9:40-10:10",
+    "what": "Invited Talk: Friction-Free Contextual Conversational AI (Ruhi Sarikaya)",
+    "links": []
+   },
+   {
+    "time": "10:10-10:30",
+    "what": "Poster Blitz",
+    "links": []
+   },
+   {
+    "time": "10:30-11:00",
+    "what": "Coffee Break / Hangup Posters",
+    "links": []
+   },
+   {
+    "time": "11:00-11:20",
+    "what": "Contributed Talk: Cross-lingual Transfer Learning for Multilingual Task Oriented Dialog",
+    "links": []
+   },
+   {
+    "time": "11:20-11:40",
+    "what": "Contributed Talk: DeepCopy: Grounded Response Generation with Hierarchical Pointer Networks ( Winner of Best Paper Award )",
+    "links": []
+   },
+   {
+    "time": "11:40-12:10",
+    "what": "Invited Talk: Conversational moves and blended conversation (Alexander Rudnicky)",
+    "links": []
+   },
+   {
+    "time": "12:10-1:50",
+    "what": "Lunch Break",
+    "links": []
+   },
+   {
+    "time": "1:50-2:20",
+    "what": "Invited Talk: Knowledge Grounded End-to-End Dialog (Lazaros Polymenakos)",
+    "links": []
+   },
+   {
+    "time": "2:20-2:40",
+    "what": "Contributed Talk: Improving Semantic Parsing for Task Oriented Dialog",
+    "links": []
+   },
+   {
+    "time": "2:40-3:00",
+    "what": "Contributed Talk: Dialog System Technology Challenge 7",
+    "links": []
+   },
+   {
+    "time": "3:00-3:50",
+    "what": "Coffee Break / Poster Session",
+    "links": []
+   },
+   {
+    "time": "3:50-4:10",
+    "what": "Contributed Talk: Global-to-local Memory Pointer Networks for Task-Oriented Dialogue",
+    "links": []
+   },
+   {
+    "time": "4:10-4:30",
+    "what": "Contributed Talk: Can You be More Polite and Positive? Infusing Social Language into Task-Oriented Conversational Agents",
+    "links": []
+   },
+   {
+    "time": "4:30-5:25",
+    "what": "Panel / Open Discussion - All Organizers (submit questions here )",
+    "links": []
+   },
+   {
+    "time": "5:25-5:30",
+    "what": "Closing Remarks (Jason Williams)",
+    "links": []
+   }
+  ],
+  "talks": [
+   {
+    "title": "Dialog System Technology Challenge 7",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-DSTC7.pdf",
+    "authors": "Koichiro Yoshino, Chiori Hori, Julien Perez, Luis Fernando D’Haro, Lazaros Polymenakos, Chulaka Gunasekara, Walter S. Lasecki, Jonathan K. Kummerfeld, Michel Galley, Chris Brockett, Jianfeng Gao, Bill Dolan, Xiang Gao, Huda Alamari, Tim K. Marks, Devi Parikh and Dhruv Batra",
+    "award": false
+   },
+   {
+    "title": "Improving Semantic Parsing for Task Oriented Dialog",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-Improving_Semantic_Parsing_for_Task_Oriented_Dialog.pdf",
+    "authors": "Arash Einolghozati, Panupong Pasupat, Sonal Gupta, Rushin Shah, Mrinal Mohit, Mike Lewis and Luke Zettlemoyer",
+    "award": false
+   },
+   {
+    "title": "DeepCopy: Grounded Response Generation with Hierarchical Pointer Networks",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-deepcopy.pdf",
+    "authors": "Semih Yavuz, Abhinav Rastogi, Guan-lin Chao and Dilek Hakkani-Tür",
+    "award": true
+   },
+   {
+    "title": "Can You be More Polite and Positive? Infusing Social Language into Task-Oriented Conversational Agents",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-Can you be more polite.pdf",
+    "authors": "Yi-Chia Wang, Runze Wang, Gokhan Tur, Hugh Williams",
+    "award": false
+   },
+   {
+    "title": "Cross-lingual Transfer Learning for Multilingual Task Oriented Dialog",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-Cross-Lingual Transfer Learning.pdf",
+    "authors": "Sebastian Schuster, Sonal Gupta, Rushin Shah, Mike Lewis",
+    "award": false
+   },
+   {
+    "title": "Global-to-local Memory Pointer Networks for Task-Oriented Dialogue",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-Global-to-local Memory Pointer.pdf",
+    "authors": "Chien-Sheng Wu, Caiming Xiong and Richard Socher",
+    "award": false
+   }
+  ],
+  "posters": [
+   {
+    "title": "Improving Robustness of Dialog Systems in a Data-Efficient Way with Turn Dropout",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-Improving Robustness of Neural Dialog Systems.pdf",
+    "authors": "Igor Shalyminov and Sungjin Lee",
+    "award": false
+   },
+   {
+    "title": "A Study on Dialogue Reward Prediction for Open-Ended Conversational Agents",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-a study on dialoug reward prediction.pdf",
+    "authors": "Heriberto Cuayáhuitl, Seonghan Ryu, Donghyeon Lee and Jihie Kim",
+    "award": false
+   },
+   {
+    "title": "Few-Shot Generalization Across Dialogue Tasks",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-few shot generalization.pdf",
+    "authors": "Vladimir Vlasov, Akela Drissner-Schmid and Alan Nichol",
+    "award": false
+   },
+   {
+    "title": "Detecting Offensive Content in Open-domain Conversations using Two Stage Semi-supervision",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-detecting offensive.pdf",
+    "authors": "Chandra Khatri, Behnam Hedayatnia, Rahul Goel Anushree Venkatesh, Raefer Gabriel and Arindam Mandal",
+    "award": false
+   },
+   {
+    "title": "Flexible and Scalable State Tracking Framework for Goal-Oriented Dialogue Systems",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-Flexible and Scalable State Tracking.pdf",
+    "authors": "Rahul Goel, Shachi Paul, Tagyoung Chung Jeremie Lecomte, Arindam Mandal and Dilek Hakkani-Tur",
+    "award": false
+   },
+   {
+    "title": "Modeling Non-Goal Oriented Dialog With Discrete Attributes",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-Modeling non-Goal Oriented.pdf",
+    "authors": "Chinnadhurai Sankar and Sujith Ravi",
+    "award": false
+   },
+   {
+    "title": "An Interpretable (Conversational) VQA model using Attention based Weighted Contextual Features",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-An Interpretable (Conversational) VQA.pdf",
+    "authors": "Yu Wang, Abhishek Patel, Yilin Shen, Hongxia Jin and Larry Heck",
+    "award": false
+   },
+   {
+    "title": "Wizard of Wikipedia: Knowledge-powered Conversational agents",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-Wizard of Wikipedia.pdf",
+    "authors": "Emily Dinan, Stephen Roller, Kurt Shuster, Angela Fan, Michael Auli and Jason Weston",
+    "award": false
+   },
+   {
+    "title": "A Bandit Approach to Posterior Dialog Orchestration Under a Budget",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-A bandit approach.pdf",
+    "authors": "Sohini Upadhyay, Mayank Agarwal, Djallel Bounneffouf, and Yasaman Khazaeni",
+    "award": false
+   },
+   {
+    "title": "Cross-Lingual Approaches to Reference Resolution in Dialogue Systems",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-Cross lingual approaches.pdf",
+    "authors": "Amr Sharaf, Arpit Gupta, Hancheng Ge, Chetan Naik and Lambert Mathias",
+    "award": false
+   },
+   {
+    "title": "On Modelling Uncertainty in Neural Language Generation for Policy Optimisation in Voice-Triggered Dialog Assistants",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-On Modelling Uncertainty.pdf",
+    "authors": "Sihui Wang, Tom Gunter, David VanDyke, Thomas Voice and Blaise Thomson",
+    "award": false
+   },
+   {
+    "title": "Toward Scalable Neural Dialogue State Tracking Model",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-Toward_Scalable_Neural_Dialogue_State_Tracking_Model.pdf",
+    "authors": "Elnaz Nouri and Ehsan Hosseini-Asl",
+    "award": false
+   },
+   {
+    "title": "Incorporating the Structure of the Belief State in End-to-End Task-Oriented Dialogue Systems",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-Incorporating the Structure.pdf",
+    "authors": "Lei Shu, Piero Molino, Mahdi Namazifar, Bing Liu, Hu Xu, Huaixiu Zheng and Gokhan Tur",
+    "award": false
+   },
+   {
+    "title": "A Multimodal Dialogue System for Conversational Image Editing",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-A Multimodal Dialogue System.pdf",
+    "authors": "Tzu-Hsiang Lin, Trung Bui, Doo Soon Kim and Jean Oh",
+    "award": false
+   },
+   {
+    "title": "Leveraging User Engagement Signals For Entity Labeling in a Virtual Assistant",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-Leveraging User Engagement.pdf",
+    "authors": "Deepak Muralidharan, Justine Kao, Xiao Yang, Lin Li, Lavanya Viswanathan, Mubarak Seyed Ibrahim, Kevin Luikens, Stephen Pulman, Ashish Garg, Atish Kothari and Jason Wiiliams",
+    "award": false
+   },
+   {
+    "title": "Neural Machine Translation for Paraphrase Generation",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-Neural Machine Translation.pdf",
+    "authors": "Alex Sokolov and Denis Filimonov",
+    "award": false
+   },
+   {
+    "title": "TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents",
+    "pdf": "files/nips18-Conversational-AI/Papers/18convai-TransferTransfo.pdf",
+    "authors": "Thomas Wolf, Victor Sanh, Julien Chaumond and Clement Delangue",
+    "award": false
+   }
+  ],
+  "pc": [
+   "Murat Akbacak (Apple)",
+   "Masahiro Araki (Kyoto Institute of Technology)",
+   "Ron Artstein (USC Institute for Creative Technologies)",
+   "rafael banchs (Intapp, Inc)",
+   "Parminder Bhatia (Amazon)",
+   "Nate Blaylock (Nuance Communications)",
+   "Praveen Kumar Bodigutla (Amazon)",
+   "Yun-Nung Chen (National Taiwan University)",
+   "Paul Crook (Facebook)",
+   "Heriberto Cuayahuitl (University of Lincoln)",
+   "Ludovic Denoyer (Facebook)",
+   "Nina Dethlefs (University of Hull)",
+   "Maryam Fazel-Zarandi (Amazon)",
+   "Michel Galley (Microsoft)",
+   "Kallirroi Georgila (University of Southern California)",
+   "Helen Hastie (Heriot-Watt University)",
+   "Larry Heck (Samsung Research America)",
+   "Matthew Henderson (Google)",
+   "Ryuichiro Higashinaka (NTT)",
+   "Ravi Jain (Amazon)",
+   "Anders Johannsen (Apple)",
+   "Filip Jurcicek (Apple)",
+   "Chandra Khatri (Uber AI)",
+   "Douwe Kiela (Facebook AI Research)",
+   "Kazunori Komatani (Osaka University)",
+   "Anjishnu Kumar (Amazon)",
+   "Sungjin Lee (Microsoft Research)",
+   "Fabrice Lefevre (Univ. Avignon)",
+   "Oliver Lemon (Heriot-Watt University)",
+   "Lihong Li (Google)",
+   "Lin Li (Apple)",
+   "Lambert Mathias (Amazon)",
+   "Angeliki Metallinou (Amazon)",
+   "Diarmuid Ó Séaghdha (Apple)",
+   "Alexandros Papangelis (Toshiba Research Europe Limited)",
+   "Stephen Pulman (Apple)",
+   "Giuseppe Riccardi (University of Trento)",
+   "Sanjeev Satheesh (Tesla)",
+   "Ethan Selfridge (Interactions Corporation)",
+   "Amina Shabbeer (Amazon)",
+   "Kevin Small (Amazon)",
+   "Eddy Su (PolyAI)",
+   "Sandeep Subramanian (MILA)",
+   "Gyuri Szarvas (Amazon)",
+   "Blaise Thomson (Apple)",
+   "Gokhan Tur (Google)",
+   "Stefan Ultes (Daimler)",
+   "Anu Venkatesh (Amazon)",
+   "Shawn Wen (PolyAI)",
+   "Jason Weston (Facebook AI Research)",
+   "Hong Yu (Apple)",
+   "Kai Yu (SJTU)",
+   "Imed Zitouni (Microsoft)"
+  ],
+  "best_paper_note": "Congratulations to Semih Yavuz, Abhinav Rastogi, Guan-lin Chao and Dilek Hakkani-Tür for winning our Best Paper Award!"
+ },
+ "19": {
+  "year": 2019,
+  "edition": "3rd",
+  "conf": "NeurIPS 2019",
+  "city": "Vancouver, Canada",
+  "date": "December 14, 2019",
+  "location": "Vancouver Convention Center",
+  "location_url": "https://www.google.com/maps/place/Vancouver+Convention+Centre+East/@49.2881789,-123.1146601,17z/",
+  "chairs": [
+   [
+    "Alborz Geramifard",
+    "Facebook",
+    "http://alborz-geramifard.com"
+   ],
+   [
+    "Jason Williams",
+    "Apple",
+    "https://scholar.google.com/citations?user=CcLxiyMAAAAJ&hl=en"
+   ]
+  ],
+  "organizers": [
+   [
+    "Asli Celikyilmaz",
+    "Microsoft Research",
+    "https://www.microsoft.com/en-us/research/people/aslicel/"
+   ],
+   [
+    "Matthew Henderson",
+    "PolyAI",
+    "http://www.matthen.com/"
+   ],
+   [
+    "Luis Lastras",
+    "IBM Research",
+    "https://www.linkedin.com/in/luis-lastras-9a862a14/"
+   ],
+   [
+    "Mari Ostendorf",
+    "University of Washington",
+    "https://people.ece.uw.edu/ostendorf/"
+   ],
+   [
+    "Dilek Hakkani-Tür",
+    "Amazon",
+    "https://scholar.google.com/citations?user=GMcL_9kAAAAJ&hl=en"
+   ],
+   [
+    "Milica Gašić",
+    "Heinrich Heine University Düsseldorf",
+    "https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning/our-team/team/cv-gasic.html"
+   ],
+   [
+    "Bill Byrne",
+    "Google",
+    "https://ai.google/research/people/author39011"
+   ]
+  ],
+  "speakers": [
+   [
+    "Y-Lan Boureau",
+    "Facebook",
+    null
+   ],
+   [
+    "Ryuichiro Higashinaka",
+    "NTT",
+    null
+   ],
+   [
+    "Alan Ritter",
+    "Ohio State University",
+    null
+   ],
+   [
+    "Gabriel Skantze",
+    "KTH / Furhat Robotics",
+    null
+   ],
+   [
+    "David Traum",
+    "USC",
+    null
+   ],
+   [
+    "Zhou Yu",
+    "UC Davis",
+    null
+   ]
+  ],
+  "stats": "6 invited talks · 8 contributed talks · 22 posters",
+  "title": "Today's Practice and Tomorrow's Potential",
+  "description": [
+   "In less than a decade, conversational systems have become commonplace. Every day, millions of people use natural-language interfaces such as Siri, the Google Assistant, Cortana, Alexa and others via in-home devices, phones, or messaging channels such as Messenger, Slack, Skype, among others. At the same time, interest among the research community in conversational systems has blossomed: for supervised and reinforcement learning, conversational systems often serve as both a benchmark task and an inspiration for new ML methods at conferences which don't focus on speech and language per se, such as NeurIPS, ICML, IJCAI, and others. Such movement has not been unnoticed by major publications. This year in collaboration with AAAI community, the AI magazine will have a special issue on conversational AI. Moreover, research community challenge tasks are proliferating, including the seventh Dialog Systems Technology Challenge (DSTC7), the Amazon Alexa prize, and the Conversational Intelligence Challenge live competitions at NeurIPS (2017, 2018).",
+   "Following two successful NeurIPS workshops:",
+   "2017: 9 invited talks, 26 submissions, 3 oral papers, 13 accepted papers, 37 reviewers",
+   "2018: 4 invited talks, 42 submission, 6 oral papers, 23 accepted papers, 58 reviewers,",
+   "we are excited to continue promoting cross-pollination of ideas between academic research centers and industry. The goal of this workshop is to bring together researchers and practitioners in this area, to clarify impactful research problems, understand well-founded methods, share findings from large-scale real-world deployments, and generate new ideas for future lines of research.",
+   "This workshop will include invited talks from academia and industry, contributed work, and open discussion. In these talks, senior technical leaders from many of the most popular conversational services will give insights into real usage and challenges at scale. We will end the day with an open discussion, including a panel consisting of academic and industrial researchers."
+  ],
+  "description_links": [
+   [
+    "special issue on conversational AI",
+    "https://tinyurl.com/y6shq2ld"
+   ],
+   [
+    "2017",
+    "http://alborz-geramifard.com/workshops/nips17-Conversational-AI/Main.html"
+   ],
+   [
+    "2018",
+    "http://alborz-geramifard.com/workshops/nips18-Conversational-AI/Main.html"
+   ]
+  ],
+  "cfp": [
+   "We invite you to submit your novel contributions (submission page) in the area of conversational AI in NeurIPS style with maximum of 8 pages excluding the references. You can add supplementary material in addition to 8 pages, but reviewers are not required to review the extra material (e.g. your paper should stand on its own without the supplementary material). Selected papers will be presented through invited talks or posters. Maximum allowed size of posters is 36 x 48 inch (91 x 122 cm). Posters should be on light weight paper and not laminated . Submitting papers that are under review by other venues are ok. However, please avoid submitting already peer-reviewed and published work. Notice that our workshop is not archival. However, accepted submission will be hosted on this website similar to last year’s workshop. Given authors concern around posting their submissions to arXiv the organizing committed decided to lift the anonymity requirement for our workshop. This means the anonymity will be optional and decided by the authors. Hence, you can post your submissions to arXiv. For further questions, feel free to reach out to co-chairs through email (alborz dot geramifard at gmail dot com; jdw at alumni dot princeton dot edu)."
+  ],
+  "dates": [
+   [
+    "_note",
+    "This year, we will have two submission phases due to limitation for allocating tickets to authors. We advise all workshop attendees to enter their names for the NeurIPS lottery here."
+   ],
+   [
+    "_note",
+    "Phase 1 (Early Submission) : Please follow the early submission, only if you did not win a ticket in the NeurIPS lottery. We will notify accepted authors by October 1st and provide tickets to the author presenting the paper."
+   ],
+   [
+    "Submission",
+    "21st September 2019 11:59 PM EST"
+   ],
+   [
+    "Notification",
+    "1st October 2019"
+   ],
+   [
+    "_note",
+    "Phase 2 (Regular Submission) : If you already acquired the NeurIPS ticket, please follow the regular submission process below."
+   ],
+   [
+    "Submission",
+    "1st October 2019 11:59 PM EST"
+   ],
+   [
+    "Notification",
+    "1st November 2019"
+   ],
+   [
+    "_note",
+    "Shared dates for both phases:"
+   ],
+   [
+    "Camera Ready",
+    "14th November 2019"
+   ],
+   [
+    "Registration Start",
+    "6th September 2019"
+   ],
+   [
+    "Workshop",
+    "14th December 2019 (Saturday - Second day of workshops)"
+   ]
+  ],
+  "schedule": [
+   {
+    "time": "",
+    "what": "Session 1 Video Link",
+    "links": [
+     [
+      "Session 1 Video Link",
+      "https://slideslive.com/38922062/the-third-conversational-ai-workshop-todays-practice-and-tomorrows-potential-1"
+     ]
+    ]
+   },
+   {
+    "time": "8:45-8:55",
+    "what": "Opening",
+    "links": [
+     [
+      "Video",
+      "https://slideslive.com/38922358/3rd-conversational-ai-opening"
+     ]
+    ]
+   },
+   {
+    "time": "8:55-9:25",
+    "what": "Invited Talk - Alan Ritter",
+    "links": [
+     [
+      "Video",
+      "https://slideslive.com/38922311/invited-talk-towards-datadriven-conversational-ai"
+     ]
+    ]
+   },
+   {
+    "time": "9:25-9:40",
+    "what": "Contributed talk 1: Attention over Parameters for Dialogue Systems",
+    "links": [
+     [
+      "Video",
+      "https://slideslive.com/38922315/contributed-talk-1-attention-over-parameters-for-dialogue-systems"
+     ]
+    ]
+   },
+   {
+    "time": "9:40-9:55",
+    "what": "Poster - Lightning round",
+    "links": []
+   },
+   {
+    "time": "9:55-10:40",
+    "what": "Coffee Break / Poster Session",
+    "links": []
+   },
+   {
+    "time": "",
+    "what": "Session 2 Video Link",
+    "links": [
+     [
+      "Session 2 Video Link",
+      "https://slideslive.com/38922063/the-third-conversational-ai-workshop-todays-practice-and-tomorrows-potential-2"
+     ]
+    ]
+   },
+   {
+    "time": "10:40-11:10",
+    "what": "Invited Talk - Ryuchiro Higashinaka",
+    "links": [
+     [
+      "Video",
+      "https://slideslive.com/38922312/invited-talk-problems-in-current-chatoriented-dialogue-systems-naturalness-and-personality"
+     ]
+    ]
+   },
+   {
+    "time": "11:10-11:25",
+    "what": "Contributed talk 2: Persona-aware Dialogue Generation with Enriched Profile",
+    "links": []
+   },
+   {
+    "time": "11:25-11:40",
+    "what": "Contributed talk 3: HSCJN: A Holistic Semantic Constraint Joint Network for Diverse Response Generation",
+    "links": [
+     [
+      "Video",
+      "https://slideslive.com/38922317/contributed-talk-3-hscjn-a-holistic-semantic-constraint-joint-network-for-diverse-response-generation"
+     ]
+    ]
+   },
+   {
+    "time": "11:40-11:55",
+    "what": "Contributed talk 4: Hierarchical Reinforcement Learning for Open-Domain Dialog",
+    "links": [
+     [
+      "Video",
+      "https://slideslive.com/38922318/contributed-talk-4-hierarchical-reinforcement-learning-for-opendomain-dialog"
+     ]
+    ]
+   },
+   {
+    "time": "11:55-1:45",
+    "what": "Lunch Break",
+    "links": []
+   },
+   {
+    "time": "",
+    "what": "Session 3 Video Link",
+    "links": [
+     [
+      "Session 3 Video Link",
+      "https://slideslive.com/38922064/the-third-conversational-ai-workshop-todays-practice-and-tomorrows-potential-3"
+     ]
+    ]
+   },
+   {
+    "time": "1:45-2:15",
+    "what": "Invited Talk - David Traum",
+    "links": []
+   },
+   {
+    "time": "2:15-2:45",
+    "what": "Invited Talk - Y-Lan Boureau",
+    "links": [
+     [
+      "Video",
+      "https://slideslive.com/38922340/invited-talk-talking-to-people-conversing-with-empathy-and-controlling-model-responses"
+     ]
+    ]
+   },
+   {
+    "time": "2:45-3:00",
+    "what": "Contributed talk 5: Domain Transfer in Dialogue Systems without Turn-Level Supervision",
+    "links": [
+     [
+      "Video",
+      "https://slideslive.com/38922338/contributed-talk-5-domain-transfer-in-dialogue-systems-without-turnlevel-supervision"
+     ]
+    ]
+   },
+   {
+    "time": "3:00-3:15",
+    "what": "Contributed talk 6: Reinforcement Learning of Multi-Domain Dialog Policies Via Action Embeddings",
+    "links": [
+     [
+      "Video",
+      "https://slideslive.com/38922339/contributed-talk-6-reinforcement-learning-of-multidomain-dialog-policies-via-action-embeddings"
+     ]
+    ]
+   },
+   {
+    "time": "3:15-3:30",
+    "what": "Contributed talk 7: Bayes-Adaptive Monte-Carlo Planning and Learning for Goal-Oriented Dialogues",
+    "links": [
+     [
+      "Video",
+      "https://slideslive.com/38922341/contributed-talk-7-bayesadaptive-montecarlo-planning-and-learning-for-goaloriented-dialogues"
+     ]
+    ]
+   },
+   {
+    "time": "3:30-4:15",
+    "what": "Coffee Break / Poster Session",
+    "links": []
+   },
+   {
+    "time": "",
+    "what": "Session 4 Video Link",
+    "links": [
+     [
+      "Session 4 Video Link",
+      "https://slideslive.com/38922065/the-third-conversational-ai-workshop-todays-practice-and-tomorrows-potential-4"
+     ]
+    ]
+   },
+   {
+    "time": "4:15-4:45",
+    "what": "Invited Talk - Gabriel Skantze",
+    "links": [
+     [
+      "Video",
+      "https://slideslive.com/38922336/invited-talk-towards-realtime-coordination-in-conversational-ai"
+     ]
+    ]
+   },
+   {
+    "time": "4:45-5:00",
+    "what": "Contributed talk 8: Recurrent Chunking Mechanisms for Conversational Machine Reading Comprehension",
+    "links": [
+     [
+      "Video",
+      "https://slideslive.com/38922337/contributed-talk-8-recurrent-chunking-mechanisms-for-conversational-machine-reading-comprehension"
+     ]
+    ]
+   },
+   {
+    "time": "5:00-5:50",
+    "what": "Panel / Open Discussion - All invited speakers (submit questions here )",
+    "links": []
+   },
+   {
+    "time": "5:50-6:00",
+    "what": "Closing Remarks",
+    "links": []
+   }
+  ],
+  "talks": [
+   {
+    "title": "Bayes-Adaptive Monte-Carlo Planning and Learning for Goal-Oriented Dialogues",
+    "pdf": "files/neurips19-Conversational-AI/Papers/5.pdf",
+    "authors": "Jang, Youngsoo; Lee, Jongmin; Kim, Kee-Eung",
+    "award": false
+   },
+   {
+    "title": "Domain Transfer in Dialogue Systems without Turn-Level Supervision",
+    "pdf": "files/neurips19-Conversational-AI/Papers/6.pdf",
+    "authors": "Bingel, Joachim; Petrén Bach Hansen, Victor; Gonzalez, Ana V; Budzianowski, Paweł; Augenstein, Isabelle; Søgaard, Anders",
+    "award": false
+   },
+   {
+    "title": "Persona-aware Dialogue Generation with Enriched Profile",
+    "pdf": "files/neurips19-Conversational-AI/Papers/14.pdf",
+    "authors": "Zheng, Yinhe; Chen, Guanyi; Huang, Minlie; Liu, Song; Zhu, Xuan",
+    "award": false
+   },
+   {
+    "title": "Attention over Parameters for Dialogue Systems",
+    "pdf": "files/neurips19-Conversational-AI/Papers/15.pdf",
+    "authors": "Madotto, Andrea; Lin, Zhaojiang; Wu, Chien-Sheng; Shin, Jamin; Fung, Pascale",
+    "award": true
+   },
+   {
+    "title": "Hierarchical Reinforcement Learning for Open-Domain Dialog",
+    "pdf": "files/neurips19-Conversational-AI/Papers/19.pdf",
+    "authors": "Saleh, Abdelrhman; Jaques, Natasha; Ghandeharioun, Asma; Shen, Judy Hanwen; Picard, Rosalind",
+    "award": false
+   },
+   {
+    "title": "Recurrent Chunking Mechanisms for Conversational Machine Reading Comprehension",
+    "pdf": "files/neurips19-Conversational-AI/Papers/22.pdf",
+    "authors": "Gong, Hongyu; Shen, Yelong; Yu, Dian; Chen, Jianshu; Yu, Dong",
+    "award": false
+   },
+   {
+    "title": "HSCJN: A Holistic Semantic Constraint Joint Network for Diverse Response Generation",
+    "pdf": "files/neurips19-Conversational-AI/Papers/24.pdf",
+    "authors": "Wang, Yiru; Si, Pengda; Lei, Zeyang; Xun, Guangxu; Yang, Yujiu",
+    "award": false
+   },
+   {
+    "title": "Reinforcement Learning of Multi-Domain Dialog Policies Via Action Embeddings",
+    "pdf": "files/neurips19-Conversational-AI/Papers/33.pdf",
+    "authors": "Mendez, Jorge A; Geramifard, Alborz; Ghavamzadeh, Mohammad; Liu, Bing",
+    "award": false
+   }
+  ],
+  "posters": [
+   {
+    "title": "Multi-Turn Beam Search for Neural Dialogue Modeling",
+    "pdf": "files/neurips19-Conversational-AI/Papers/3.pdf",
+    "authors": "Kulikov, Ilia; Lee, Jason; Cho, Kyunghyun",
+    "award": false
+   },
+   {
+    "title": "Just Ask:An Interactive Learning Framework for Vision and Language Navigation",
+    "pdf": "files/neurips19-Conversational-AI/Papers/4.pdf",
+    "authors": "Chi, Ta-Chung; Shen, Minmin; Eric, Mihail; Kim, Seokhwan; Hakkani-tur, Dilek",
+    "award": false
+   },
+   {
+    "title": "Improving Robustness of Task Oriented Dialog Systems",
+    "pdf": "files/neurips19-Conversational-AI/Papers/8.pdf",
+    "authors": "Einolghozati, Arash; Gupta, Sonal; Mohit, Mrinal; Shah, Rushin",
+    "award": false
+   },
+   {
+    "title": "Hierarchical Tensor Fusion Network for Deception Handling Negotiation Dialog Model",
+    "pdf": "files/neurips19-Conversational-AI/Papers/10.pdf",
+    "authors": "Nguyen, The Tung; Yoshino, Koichiro; Sakti, Sakriani; Nakaura, Satoshi",
+    "award": false
+   },
+   {
+    "title": "Conversational QA for FAQs",
+    "pdf": "files/neurips19-Conversational-AI/Papers/11.pdf",
+    "authors": "Campos, Jon Ander; Agirre, Eneko; Soroa, Aitor; Otegi, Arantxa; Deriu, Jan; Cieliebak, Mark",
+    "award": false
+   },
+   {
+    "title": "Dialogue Model and Response Generation for Emotion Improvement Elicitation",
+    "pdf": "files/neurips19-Conversational-AI/Papers/12.pdf",
+    "authors": "Lubis, Nurul; Sakti, Sakriani; Yoshino, Koichiro; Nakaura, Satoshi",
+    "award": false
+   },
+   {
+    "title": "ACUTE-EVAL: Improved dialogue evaluation with optimized questions and multi-turn comparisons",
+    "pdf": "files/neurips19-Conversational-AI/Papers/20.pdf",
+    "authors": "Li, Margaret; Weston, Jason; Roller, Stephen;",
+    "award": false
+   },
+   {
+    "title": "MA-DST: Multi-Attention-Based Scalable Dialog State Tracking",
+    "pdf": "files/neurips19-Conversational-AI/Papers/29.pdf",
+    "authors": "Kumar, Adarsh; Ku, Peter; Goyal, Anuj Kumar; Metallinou, Angeliki; Hakkani-tur, Dilek",
+    "award": false
+   },
+   {
+    "title": "Aging Memories Generate More Fluent Dialogue Responses with Memory Augmented Neural Networks",
+    "pdf": "files/neurips19-Conversational-AI/Papers/30.pdf",
+    "authors": "Florez, Omar U; Muller, Erik",
+    "award": false
+   },
+   {
+    "title": "Learning to Control Latent Representations \\or Few-Shot Learning of Named Entities",
+    "pdf": "files/neurips19-Conversational-AI/Papers/31.pdf",
+    "authors": "Florez, Omar U; Muller, Erik",
+    "award": false
+   },
+   {
+    "title": "Neural Assistant: Joint Action Prediction, Response Generation, and Latent Knowledge Reasoning",
+    "pdf": "files/neurips19-Conversational-AI/Papers/32.pdf",
+    "authors": "Neelakantan, Arvind; Narang, Sharan; Yavuz, Semih",
+    "award": false
+   },
+   {
+    "title": "Retrieval-based Goal-Oriented Dialogue Generation",
+    "pdf": "files/neurips19-Conversational-AI/Papers/34.pdf",
+    "authors": "Gonzalez, Ana V; Augenstein, Isabelle; Søgaard, Anders",
+    "award": false
+   },
+   {
+    "title": "Investigation of Error Simulation Techniques for Learning Dialog Policies for Conversational Error Recovery",
+    "pdf": "files/neurips19-Conversational-AI/Papers/38.pdf",
+    "authors": "Fazel-Zarandi, Maryam; Wang, Longshaokan; Tiwari, Aditya; Matsoukas, Spyros",
+    "award": false
+   },
+   {
+    "title": "Way Off-Policy Batch Deep Reinforcement Learning of Implicit Human Preferences in Dialog",
+    "pdf": "files/neurips19-Conversational-AI/Papers/40.pdf",
+    "authors": "Jaques, Natasha; Ghandeharioun, Asma; Shen, Judy Hanwen; Ferguson, Craig; Lapedriza Garcia, Agata; Jones, Noah; Gu, Shixiang; Picard, Rosalind",
+    "award": false
+   },
+   {
+    "title": "Incorporating rules into end-to-end dialog systems",
+    "pdf": "files/neurips19-Conversational-AI/Papers/43.pdf",
+    "authors": "Razumovskaia, Evgeniia; Eskenazi, Maxine",
+    "award": false
+   },
+   {
+    "title": "Learning Conversational Web Interfaces",
+    "pdf": "files/neurips19-Conversational-AI/Papers/44.pdf",
+    "authors": "Gur, Izzeddin; Yan, Xifeng",
+    "award": false
+   },
+   {
+    "title": "Towards Personalized Dialog Policies for Conversational Skill Discovery",
+    "pdf": "files/neurips19-Conversational-AI/Papers/46.pdf",
+    "authors": "Fazel-Zarandi, Maryam; Biswas, Sampat; Summers, Ryan; Elmalt, Ahmed; McCraw, Andy; McPhilips, Michael; Peach, John",
+    "award": false
+   },
+   {
+    "title": "The Eighth Dialog System Technology Challenge",
+    "pdf": "files/neurips19-Conversational-AI/Papers/47.pdf",
+    "authors": "Kim, Seokhwan; Galley, Michel; Gunasekara, Chulaka; Lee, Sungjin; Atkinson, Adam; Peng, Baolin; Schulz, Hannes; Gao, Jianfeng; Li, Jinchao; Adada, Mahmoud; Huang, Minlie; Lastras, Luis A.; Kummerfeld, Jonathan K; Lasecki, Walter; Hori, Chiori; Cherian, Anoop; Marks, Tim K; Rastogi, Abhinav; Zang, Xiaoxue; Sunkara, Srinivas; Gupta, Raghav",
+    "award": false
+   },
+   {
+    "title": "Multi-domain Conversation Quality Evaluaiton via User Satisfaction Estimation",
+    "pdf": "files/neurips19-Conversational-AI/Papers/49.pdf",
+    "authors": "Bodigutla, Praveen Kumar; Matsoukas, Spyros; Polymenakos, Lazaros",
+    "award": false
+   },
+   {
+    "title": "Paper details to be posted at a later date, at author’s request",
+    "pdf": null,
+    "authors": "<Authors>",
+    "award": false
+   },
+   {
+    "title": "TAM: Using trainable-action-mask to improve sample-efficiency in reinforcement learning for dialogue systems",
+    "pdf": "files/neurips19-Conversational-AI/Papers/52.pdf",
+    "authors": "Wu, Yen-Chen",
+    "award": false
+   },
+   {
+    "title": "Domain-Specific Question Answering at Scale for Conversational Systems",
+    "pdf": "files/neurips19-Conversational-AI/Papers/54.pdf",
+    "authors": "Semnani, Sina; Pandey, Madhulima ; Pandey, Manish",
+    "award": false
+   }
+  ],
+  "pc": [
+   "Masahiro Araki (Kyoto Institute of Technology)",
+   "Ron Artstein (USC Institute for Creative Technologies)",
+   "Rafael Banchs (Intapp, Inc)",
+   "Parminder Bhatia (Amazon)",
+   "Nate Blaylock (Nuance Communications)",
+   "Praveen Kumar Bodigutla (Amazon)",
+   "Yun-Nung Chen (National Taiwan University)",
+   "Paul Crook (Facebook)",
+   "Heriberto Cuayahuitl (University of Lincoln)",
+   "Ludovic Denoyer (Facebook)",
+   "Nina Dethlefs (University of Hull)",
+   "Maryam Fazel-Zarandi (Amazon)",
+   "Michel Galley (Microsoft)",
+   "Kallirroi Georgila (University of Southern California)",
+   "Helen Hastie (Heriot-Watt University)",
+   "Larry Heck (Samsung Research America)",
+   "Matthew Henderson (Google)",
+   "Ryuichiro Higashinaka (NTT)",
+   "Ravi Jain (Amazon)",
+   "Anders Johannsen (Apple)",
+   "Filip Jurcicek (Apple)",
+   "Chandra Khatri (Uber AI)",
+   "Douwe Kiela (Facebook AI Research)",
+   "Kazunori Komatani (Osaka University)",
+   "Anjishnu Kumar (Amazon)",
+   "Sungjin Lee (Microsoft Research)",
+   "Oliver Lemon (Heriot-Watt University)",
+   "Lihong Li (Google)",
+   "Lin Li (Apple)",
+   "Lambert Mathias (Amazon)",
+   "Angeliki Metallinou (Amazon)",
+   "Diarmuid Ó Séaghdha (Apple)",
+   "Alexandros Papangelis (Toshiba Research Europe Limited)",
+   "Stephen Pulman (Apple)",
+   "Giuseppe Riccardi (University of Trento)",
+   "Sanjeev Satheesh (Tesla)",
+   "Ethan Selfridge (Interactions Corporation)",
+   "Amina Shabbeer (Amazon)",
+   "Kevin Small (Amazon)",
+   "Eddy Su (PolyAI)",
+   "Sandeep Subramanian (MILA)",
+   "Gyuri Szarvas (Amazon)",
+   "Blaise Thomson (Apple)",
+   "Gokhan Tur (Google)",
+   "Stefan Ultes (Daimler)",
+   "Anu Venkatesh (Amazon)",
+   "Shawn Wen (PolyAI)",
+   "Jason Weston (Facebook AI Research)",
+   "Hong Yu (Apple)",
+   "Kai Yu (SJTU)",
+   "Imed Zitouni (Microsoft)",
+   "Baiyang Liu (Facebook AI)",
+   "Seokhwan Kim (Amazon Alexa AI)",
+   "Mihail Eric (Amazon Alexa AI)",
+   "Semih Yavuz (UCSB)",
+   "Pawel Budzianowski (Cambridge U.)",
+   "Maxine Eskenazi (CMU)",
+   "Tiancheng (Tony) Zhao (CMU)",
+   "Marilyn Walker (UCSC)",
+   "Ashutosh Modi (Disney Research)",
+   "Luis Fernando D'Haro (Technical University of Madrid)",
+   "Nurul Lubis (Heinrich Heine University Düsseldorf)",
+   "Marcus Heck (Heinrich Heine University Düsseldorf)",
+   "Dhivya Piraviperumal (Apple)",
+   "Chiori Hori (MERL)",
+   "Jinho Choi (Emory University)",
+   "Scott Sanner (UToronto)",
+   "Tyler Lu (Google)",
+   "Deepak Ramachandran (Google)"
+  ],
+  "best_paper_note": ""
+ }
+}

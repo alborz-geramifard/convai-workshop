@@ -11,101 +11,117 @@
    [
     "Alborz Geramifard",
     "Amazon",
-    "http://alborz-geramifard.com"
+    "http://alborz-geramifard.com",
+    "assets/people/alborz-geramifard.png"
    ],
    [
     "Jason Williams",
     "Microsoft Research",
-    "https://www.microsoft.com/en-us/research/people/jawillia/"
+    "https://www.microsoft.com/en-us/research/people/jawillia/",
+    "assets/people/jason-williams.png"
    ]
   ],
   "organizers": [
    [
     "Antoine Bordes",
     "Facebook AI Research",
-    "https://research.fb.com/people/bordes-antoine/"
+    "https://research.fb.com/people/bordes-antoine/",
+    "assets/people/antoine-bordes.png"
    ],
    [
     "Larry Heck",
     "Google",
-    "https://research.google.com/pubs/LarryHeck.html"
+    "https://research.google.com/pubs/LarryHeck.html",
+    "assets/people/larry-heck.png"
    ],
    [
     "Jim Glass",
     "MIT",
-    "http://groups.csail.mit.edu/sls/people/glass.shtml"
+    "http://groups.csail.mit.edu/sls/people/glass.shtml",
+    "assets/people/jim-glass.png"
    ],
    [
     "Steve Young",
     "University of Cambridge",
-    "http://mi.eng.cam.ac.uk/~sjy/"
+    "http://mi.eng.cam.ac.uk/~sjy/",
+    "assets/people/steve-young.png"
    ],
    [
     "Gerald Tesauro",
     "IBM Research",
-    "http://researcher.watson.ibm.com/researcher/view.php?person=us-gtesauro"
+    "http://researcher.watson.ibm.com/researcher/view.php?person=us-gtesauro",
+    "assets/people/gerald-tesauro.png"
    ]
   ],
   "speakers": [
    [
     "Satinder Singh",
     "University of Michigan",
-    "http://web.eecs.umich.edu/~baveja/"
+    "http://web.eecs.umich.edu/~baveja/",
+    "assets/people/satinder-singh.png"
    ],
    [
     "Joelle Pineau",
     "McGill University / Facebook",
-    "http://www.cs.mcgill.ca/~jpineau/"
+    "http://www.cs.mcgill.ca/~jpineau/",
+    "assets/people/joelle-pineau.png"
    ],
    [
     "Ashwin Ram",
     "Amazon",
-    "https://www.amazon.jobs/en/pioneers/ashwin-r"
+    "https://www.amazon.jobs/en/pioneers/ashwin-r",
+    "assets/people/ashwin-ram.png"
    ],
    [
     "Blaise Thomson",
     "Apple",
-    "http://mi.eng.cam.ac.uk/~brmt2/"
+    "http://mi.eng.cam.ac.uk/~brmt2/",
+    "assets/people/blaise-thomson.png"
    ],
    [
     "Asli Celikyilmaz",
     "Microsoft Research",
-    "https://www.microsoft.com/en-us/research/people/aslicel/"
+    "https://www.microsoft.com/en-us/research/people/aslicel/",
+    "assets/people/asli-celikyilmaz.png"
    ],
    [
     "Jianfeng Gao",
     "Microsoft Research",
-    "https://www.microsoft.com/en-us/research/people/jfgao/"
+    "https://www.microsoft.com/en-us/research/people/jfgao/",
+    "assets/people/jianfeng-gao.png"
    ],
    [
     "Matt Henderson",
     "Google",
-    "http://www.matthen.com/research/"
+    "http://www.matthen.com/research/",
+    "assets/people/matthew-henderson.png"
    ],
    [
     "Dilek Hakkani-Tür",
     "Google",
-    "https://research.google.com/pubs/104927.html"
+    "https://research.google.com/pubs/104927.html",
+    "assets/people/dilek-hakkani-tur.png"
    ],
    [
     "David Nahamoo",
     "IBM",
-    "https://www.research.ibm.com/haifa/Workshops/speech2008/nahamoo_bio.shtml"
+    "https://www.research.ibm.com/haifa/Workshops/speech2008/nahamoo_bio.shtml",
+    "assets/people/david-nahamoo.png"
    ]
   ],
   "stats": "9 invited talks · 26 submissions · 3 oral papers · 13 accepted papers · 37 reviewers",
   "title": "Today's Practice and Tomorrow's Potential",
   "description": [
-   "In the span of only a few years, conversational systems have become commonplace. Every day, millions of people use natural-language interfaces such as Siri, Google Now, Cortana, Alexa, Facebook M and others via in-home devices, phones, or messaging channels such as Messenger, Slack, Skype, among others. At the same time, interest among the research community in conversational systems has blossomed; For supervised and reinforcement learning, conversational systems often serve as both a benchmark task and an inspiration for new ML methods at conferences which don't focus on speech and language per se, such as NIPS, ICML, IJCAI, and others. Research community challenge tasks are proliferating, including the sixth Dialog Systems Technology Challenge (DSTC6), the Amazon Alexa prize, and the Conversational Intelligence Challenge live competition at NIPS 2017. Now more than ever, it is crucial to promote cross-pollination of ideas between academic research centers and industry. The goal of this workshop is to bring together researchers and practitioners in this area, to clarify impactful research problems, to share findings from large-scale real-world deployments, and to generate new ideas for future lines of research. This workshop will include invited talks from academia and industry, contributed work, and open discussion. In these talks, senior technical leaders from many of the most popular conversational services will give insights into real usage and challenges at scale. An open call for papers will be issued, and we will prioritize forward-looking papers that propose interesting and impactful contributions. We will end the day with an open discussion, including a panel consisting of academic and industrial researchers."
+   "In the span of only a few years, conversational systems have become commonplace. Every day, millions of people use natural-language interfaces such as Siri, Google Now, Cortana, Alexa, Facebook M and others via in-home devices, phones, or messaging channels such as Messenger, Slack, Skype, among others. At the same time, interest among the research community in conversational systems has blossomed; For supervised and reinforcement learning, conversational systems often serve as both a benchmark task and an inspiration for new ML methods at conferences which don&#x27;t focus on speech and language per se, such as NIPS, ICML, IJCAI, and others. Research community challenge tasks are proliferating, including the sixth Dialog Systems Technology Challenge (DSTC6), the Amazon Alexa prize, and the Conversational Intelligence Challenge live competition at NIPS 2017. Now more than ever, it is crucial to promote cross-pollination of ideas between academic research centers and industry. The goal of this workshop is to bring together researchers and practitioners in this area, to clarify impactful research problems, to share findings from large-scale real-world deployments, and to generate new ideas for future lines of research. This workshop will include invited talks from academia and industry, contributed work, and open discussion. In these talks, senior technical leaders from many of the most popular conversational services will give insights into real usage and challenges at scale. An open call for papers will be issued, and we will prioritize forward-looking papers that propose interesting and impactful contributions. We will end the day with an open discussion, including a panel consisting of academic and industrial researchers."
   ],
   "description_links": [],
   "cfp": [
-   "We invite you to submit your contributions here in the area of conversational AI by November 1st 11:59 PM EST in NIPS style with 2-4 pages with maximum of 8 pages. You do not need to anonymize your submissions. Notifications will be sent out by November 21st . Selected papers will be presented through invited talks or posters (max size of 36 x 48in)."
+   "We invite you to submit your contributions <a href=\"https://cmt3.research.microsoft.com/CONVERSATIONALAI2017\" target=\"_blank\" rel=\"noopener\">here</a> in the area of conversational AI by November 1st 11:59 PM EST in NIPS style with 2-4 pages with maximum of 8 pages. You do not need to anonymize your submissions. Notifications will be sent out by November 21st . Selected papers will be presented through invited talks or posters (max size of 36 x 48in)."
   ],
   "dates": [
    [
     "Submission",
-    "1 November 2017 11:59 PM EST"
+    "1 November 2017 11:59 PM EST <a href=\"https://cmt3.research.microsoft.com/CONVERSATIONALAI2017\" target=\"_blank\" rel=\"noopener\">submission page ↗</a>"
    ],
    [
     "Notification",
@@ -117,7 +133,7 @@
    ],
    [
     "Registration",
-    "see NIPS website"
+    "see <a href=\"http://nips.cc/\" target=\"_blank\" rel=\"noopener\">NIPS website</a>"
    ],
    [
     "Workshop",
@@ -232,7 +248,7 @@
    },
    {
     "time": "6:00-6:50",
-    "what": "Panel / Open Discussion - All Organizers (submit questions here and enter your info here for Echo Dot raffle)",
+    "what": "Panel / Open Discussion - All Organizers (submit questions <a href=\"http://www.tricider.com/admin/2cifvidgPS7/CF6BaeSeb1R\" target=\"_blank\" rel=\"noopener\">here</a> and enter your info <a href=\"http://bit.ly/2jVIE7k\" target=\"_blank\" rel=\"noopener\">here</a> for Echo Dot raffle)",
     "links": []
    },
    {
@@ -373,7 +389,14 @@
    "Tatsuya Kawahara (Kyoto University)",
    "Yan Yang (Amazon)"
   ],
-  "best_paper_note": ""
+  "best_paper_note": "",
+  "venue_image": "assets/venues/2017.jpg",
+  "venue_credit": {
+   "artist": "",
+   "license": "",
+   "page": ""
+  },
+  "venue_focus": "center 60%"
  },
  "18": {
   "year": 2018,
@@ -387,83 +410,97 @@
    [
     "Alborz Geramifard",
     "Facebook",
-    "http://alborz-geramifard.com"
+    "http://alborz-geramifard.com",
+    "assets/people/alborz-geramifard.png"
    ],
    [
     "Jason Williams",
     "Apple",
-    "https://scholar.google.com/citations?user=CcLxiyMAAAAJ&hl=en"
+    "https://scholar.google.com/citations?user=CcLxiyMAAAAJ&hl=en",
+    "assets/people/jason-williams.png"
    ]
   ],
   "organizers": [
    [
     "Larry Heck",
     "Samsung Research America",
-    "https://scholar.google.com/citations?user=33ZWJmEAAAAJ&hl=en"
+    "https://scholar.google.com/citations?user=33ZWJmEAAAAJ&hl=en",
+    "assets/people/larry-heck.png"
    ],
    [
     "Jim Glass",
     "MIT",
-    "http://groups.csail.mit.edu/sls/people/glass.shtml"
+    "http://groups.csail.mit.edu/sls/people/glass.shtml",
+    "assets/people/jim-glass.png"
    ],
    [
     "Y-Lan Boureau",
     "Facebook AI Research",
-    "https://research.fb.com/people/boureau-y-lan/"
+    "https://research.fb.com/people/boureau-y-lan/",
+    "assets/people/y-lan-boureau.png"
    ],
    [
     "Steve Young",
     "University of Cambridge",
-    "http://mi.eng.cam.ac.uk/~sjy/"
+    "http://mi.eng.cam.ac.uk/~sjy/",
+    "assets/people/steve-young.png"
    ],
    [
     "Dilek Hakkani-Tür",
     "Amazon",
-    "https://scholar.google.com/citations?user=GMcL_9kAAAAJ&hl=en"
+    "https://scholar.google.com/citations?user=GMcL_9kAAAAJ&hl=en",
+    "assets/people/dilek-hakkani-tur.png"
    ],
    [
     "Milica Gašić",
     "University of Cambridge",
-    "http://mi.eng.cam.ac.uk/~mg436/"
+    "http://mi.eng.cam.ac.uk/~mg436/",
+    "assets/people/milica-gasic.png"
    ],
    [
     "Maxine Eskenazi",
     "Carnegie Mellon University",
-    "http://www.cs.cmu.edu/~max/"
+    "http://www.cs.cmu.edu/~max/",
+    "assets/people/maxine-eskenazi.png"
    ],
    [
     "Lazaros Polymenakos",
     "IBM",
-    "https://www.linkedin.com/in/lazaros-polymenakos-54983b6/"
+    "https://www.linkedin.com/in/lazaros-polymenakos-54983b6/",
+    "assets/people/lazaros-polymenakos.png"
    ]
   ],
   "speakers": [
    [
     "Mari Ostendorf",
     "University of Washington",
-    null
+    null,
+    "assets/people/mari-ostendorf.png"
    ],
    [
     "Alexander Rudnicky",
     "Carnegie Mellon University",
+    null,
     null
    ],
    [
     "Ruhi Sarikaya",
     "Amazon",
+    null,
     null
    ],
    [
     "Lazaros Polymenakos",
     "IBM",
-    "https://www.linkedin.com/in/lazaros-polymenakos-54983b6/"
+    "https://www.linkedin.com/in/lazaros-polymenakos-54983b6/",
+    "assets/people/lazaros-polymenakos.png"
    ]
   ],
   "stats": "4 invited talks · 42 submissions · 6 oral papers · 23 accepted papers · 58 reviewers",
   "title": "Today's Practice and Tomorrow's Potential",
   "description": [
-   "In the span of only a few years, conversational systems have become commonplace. Every day, millions of people use natural-language interfaces such as Siri, Google Now, Cortana, Alexa and others via in-home devices, phones, or messaging channels such as Messenger, Slack, Skype, among others. At the same time, interest among the research community in conversational systems has blossomed: for supervised and reinforcement learning, conversational systems often serve as both a benchmark task and an inspiration for new ML methods at conferences which don't focus on speech and language per se, such as NeurIPS, ICML, IJCAI, and others. Research community challenge tasks are proliferating, including the seventh Dialog Systems Technology Challenge (DSTC7), the Amazon Alexa prize, and the Conversational Intelligence Challenge live competitions at NeurIPS (2017, 2018).",
-   "Following the overwhelming participation in our last year NeurIPS workshop (9 invited talks, 26 submissions, 3 orals papers, 13 accepted papers, 37 PC members, and couple of hundreds of participants), we are excited to continue promoting cross-pollination of ideas between academic research centers and industry. The goal of this workshop is to bring together researchers and practitioners in this area, to clarify impactful research problems, share findings from large-scale real-world deployments, and generate new ideas for future lines of research.",
+   "In the span of only a few years, conversational systems have become commonplace. Every day, millions of people use natural-language interfaces such as Siri, Google Now, Cortana, Alexa and others via in-home devices, phones, or messaging channels such as Messenger, Slack, Skype, among others. At the same time, interest among the research community in conversational systems has blossomed: for supervised and reinforcement learning, conversational systems often serve as both a benchmark task and an inspiration for new ML methods at conferences which don&#x27;t focus on speech and language per se, such as NeurIPS, ICML, IJCAI, and others. Research community challenge tasks are proliferating, including the seventh Dialog Systems Technology Challenge (DSTC7), the Amazon Alexa prize, and the Conversational Intelligence Challenge live competitions at NeurIPS (2017, 2018).",
+   "Following the overwhelming participation in our <a href=\"2017.html\" target=\"_blank\" rel=\"noopener\">last year NeurIPS workshop</a> (9 invited talks, 26 submissions, 3 orals papers, 13 accepted papers, 37 PC members, and couple of hundreds of participants), we are excited to continue promoting cross-pollination of ideas between academic research centers and industry. The goal of this workshop is to bring together researchers and practitioners in this area, to clarify impactful research problems, share findings from large-scale real-world deployments, and generate new ideas for future lines of research.",
    "This workshop will include invited talks, contributed work, and open discussion. In these talks, senior technical leaders from both academia and industry will give insights into real usage and challenges at scale. An open call for papers will be issued, and we will prioritize forward-looking papers that propose interesting and impactful contributions. We will end the day with an open discussion, including a panel consisting of academic and industrial researchers."
   ],
   "description_links": [
@@ -473,12 +510,12 @@
    ]
   ],
   "cfp": [
-   "We invite you to submit your contributions here in the area of conversational AI by October 25th 11:59 PM EST in NeurIPS style with maximum of 8 pages excluding the references. You can add supplementary material in addition to 8 pages, but reviewers are not required to review the extra material (e.g. your paper should stand on its own without the supplementary material). Notifications will be sent out by November 21st . Selected papers will be presented through invited talks or posters. Maximum allowed size of posters is 36 x 48 inch (91 x 122 cm). Notice that our workshop is not archival. However, accepted submission will be hosted on this website similar to last year’s workshop. Given authors concern around posting their submissions to arXiv the organizing committed decided to lift the anonymity requirement for our workshop. This means the anonymity will be optional and decided by the authors. Hence, you can post your submissions to arXiv. For further questions, feel free to reach out to co-chairs through email."
+   "We invite you to submit your contributions <a href=\"https://cmt3.research.microsoft.com/CONVERSATIONALAI2018\" target=\"_blank\" rel=\"noopener\">here</a> in the area of conversational AI by October 25th 11:59 PM EST in NeurIPS style with maximum of 8 pages excluding the references. You can add supplementary material in addition to 8 pages, but reviewers are not required to review the extra material (e.g. your paper should stand on its own without the supplementary material). Notifications will be sent out by November 21st . Selected papers will be presented through invited talks or posters. Maximum allowed size of posters is 36 x 48 inch (91 x 122 cm). Notice that our workshop is not archival. However, accepted submission will be hosted on this website similar to <a href=\"2017.html\" target=\"_blank\" rel=\"noopener\">last year’s workshop</a>. Given authors concern around posting their submissions to arXiv the organizing committed decided to lift the anonymity requirement for our workshop. This means the anonymity will be optional and decided by the authors. Hence, you can post your submissions to arXiv. For further questions, feel free to reach out to co-chairs through email."
   ],
   "dates": [
    [
     "Submission",
-    "25 October 2018 11:59 PM EST"
+    "25 October 2018 11:59 PM EST <a href=\"https://cmt3.research.microsoft.com/CONVERSATIONALAI2018\" target=\"_blank\" rel=\"noopener\">submission page ↗</a>"
    ],
    [
     "Notification",
@@ -490,7 +527,7 @@
    ],
    [
     "Registration",
-    "see NeurIPS website"
+    "see <a href=\"http://nips.cc/\" target=\"_blank\" rel=\"noopener\">NeurIPS website</a>"
    ],
    [
     "Workshop",
@@ -575,7 +612,7 @@
    },
    {
     "time": "4:30-5:25",
-    "what": "Panel / Open Discussion - All Organizers (submit questions here )",
+    "what": "Panel / Open Discussion - All Organizers (submit questions <a href=\"https://www.tricider.com/brainstorming/2cifvidgPS7\" target=\"_blank\" rel=\"noopener\">here</a> )",
     "links": []
    },
    {
@@ -781,7 +818,23 @@
    "Kai Yu (SJTU)",
    "Imed Zitouni (Microsoft)"
   ],
-  "best_paper_note": "Congratulations to Semih Yavuz, Abhinav Rastogi, Guan-lin Chao and Dilek Hakkani-Tür for winning our Best Paper Award!"
+  "best_paper_note": "Congratulations to Semih Yavuz, Abhinav Rastogi, Guan-lin Chao and Dilek Hakkani-Tür for winning our Best Paper Award!",
+  "photos": [
+   {
+    "src": "assets/photos/2018-panel.png",
+    "caption": "Panel discussion with the invited speakers"
+   },
+   {
+    "src": "assets/photos/2018-best-paper.png",
+    "caption": "Best Paper Award presentation"
+   }
+  ],
+  "venue_image": "assets/venues/2018.jpg",
+  "venue_credit": {
+   "artist": "congresmtl.com",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File%3APalais_des_congr%C3%A8s_de_Montr%C3%A9al_et_sa_fa%C3%A7ade_color%C3%A9e_sign%C3%A9e_Mario_Saia.jpg"
+  }
  },
  "19": {
   "year": 2019,
@@ -795,90 +848,105 @@
    [
     "Alborz Geramifard",
     "Facebook",
-    "http://alborz-geramifard.com"
+    "http://alborz-geramifard.com",
+    "assets/people/alborz-geramifard.png"
    ],
    [
     "Jason Williams",
     "Apple",
-    "https://scholar.google.com/citations?user=CcLxiyMAAAAJ&hl=en"
+    "https://scholar.google.com/citations?user=CcLxiyMAAAAJ&hl=en",
+    "assets/people/jason-williams.png"
    ]
   ],
   "organizers": [
    [
     "Asli Celikyilmaz",
     "Microsoft Research",
-    "https://www.microsoft.com/en-us/research/people/aslicel/"
+    "https://www.microsoft.com/en-us/research/people/aslicel/",
+    "assets/people/asli-celikyilmaz.png"
    ],
    [
     "Matthew Henderson",
     "PolyAI",
-    "http://www.matthen.com/"
+    "http://www.matthen.com/",
+    "assets/people/matthew-henderson.png"
    ],
    [
     "Luis Lastras",
     "IBM Research",
-    "https://www.linkedin.com/in/luis-lastras-9a862a14/"
+    "https://www.linkedin.com/in/luis-lastras-9a862a14/",
+    "assets/people/luis-lastras.png"
    ],
    [
     "Mari Ostendorf",
     "University of Washington",
-    "https://people.ece.uw.edu/ostendorf/"
+    "https://people.ece.uw.edu/ostendorf/",
+    "assets/people/mari-ostendorf.png"
    ],
    [
     "Dilek Hakkani-Tür",
     "Amazon",
-    "https://scholar.google.com/citations?user=GMcL_9kAAAAJ&hl=en"
+    "https://scholar.google.com/citations?user=GMcL_9kAAAAJ&hl=en",
+    "assets/people/dilek-hakkani-tur.png"
    ],
    [
     "Milica Gašić",
     "Heinrich Heine University Düsseldorf",
-    "https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning/our-team/team/cv-gasic.html"
+    "https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning/our-team/team/cv-gasic.html",
+    "assets/people/milica-gasic.png"
    ],
    [
     "Bill Byrne",
     "Google",
-    "https://ai.google/research/people/author39011"
+    "https://ai.google/research/people/author39011",
+    "assets/people/bill-byrne.png"
    ]
   ],
   "speakers": [
    [
     "Y-Lan Boureau",
     "Facebook",
-    null
+    null,
+    "assets/people/y-lan-boureau.png"
    ],
    [
     "Ryuichiro Higashinaka",
     "NTT",
+    null,
     null
    ],
    [
     "Alan Ritter",
     "Ohio State University",
+    null,
     null
    ],
    [
     "Gabriel Skantze",
     "KTH / Furhat Robotics",
+    null,
     null
    ],
    [
     "David Traum",
     "USC",
+    null,
     null
    ],
    [
     "Zhou Yu",
     "UC Davis",
+    null,
     null
    ]
   ],
   "stats": "6 invited talks · 8 contributed talks · 22 posters",
   "title": "Today's Practice and Tomorrow's Potential",
   "description": [
-   "In less than a decade, conversational systems have become commonplace. Every day, millions of people use natural-language interfaces such as Siri, the Google Assistant, Cortana, Alexa and others via in-home devices, phones, or messaging channels such as Messenger, Slack, Skype, among others. At the same time, interest among the research community in conversational systems has blossomed: for supervised and reinforcement learning, conversational systems often serve as both a benchmark task and an inspiration for new ML methods at conferences which don't focus on speech and language per se, such as NeurIPS, ICML, IJCAI, and others. Such movement has not been unnoticed by major publications. This year in collaboration with AAAI community, the AI magazine will have a special issue on conversational AI. Moreover, research community challenge tasks are proliferating, including the seventh Dialog Systems Technology Challenge (DSTC7), the Amazon Alexa prize, and the Conversational Intelligence Challenge live competitions at NeurIPS (2017, 2018).",
+   "In less than a decade, conversational systems have become commonplace. Every day, millions of people use natural-language interfaces such as Siri, the Google Assistant, Cortana, Alexa and others via in-home devices, phones, or messaging channels such as Messenger, Slack, Skype, among others. At the same time, interest among the research community in conversational systems has blossomed: for supervised and reinforcement learning, conversational systems often serve as both a benchmark task and an inspiration for new ML methods at conferences which don&#x27;t focus on speech and language per se, such as NeurIPS, ICML, IJCAI, and others. Such movement has not been unnoticed by major publications. This year in collaboration with AAAI community, the AI magazine will have a <a href=\"https://tinyurl.com/y6shq2ld\" target=\"_blank\" rel=\"noopener\">special issue on conversational AI</a>. Moreover, research community challenge tasks are proliferating, including the seventh Dialog Systems Technology Challenge (DSTC7), the Amazon Alexa prize, and the Conversational Intelligence Challenge live competitions at NeurIPS (2017, 2018).",
    "Following two successful NeurIPS workshops:",
-   "2017: 9 invited talks, 26 submissions, 3 oral papers, 13 accepted papers, 37 reviewers",
-   "2018: 4 invited talks, 42 submission, 6 oral papers, 23 accepted papers, 58 reviewers,",
+   "<a href=\"2017.html\" target=\"_blank\" rel=\"noopener\">2017</a>: 9 invited talks, 26 submissions, 3 oral papers, 13 accepted papers, 37 reviewers",
+   "<a href=\"2018.html\" target=\"_blank\" rel=\"noopener\">2018</a>: 4 invited talks, 42 submission, 6 oral papers, 23 accepted papers, 58 reviewers,",
    "we are excited to continue promoting cross-pollination of ideas between academic research centers and industry. The goal of this workshop is to bring together researchers and practitioners in this area, to clarify impactful research problems, understand well-founded methods, share findings from large-scale real-world deployments, and generate new ideas for future lines of research.",
    "This workshop will include invited talks from academia and industry, contributed work, and open discussion. In these talks, senior technical leaders from many of the most popular conversational services will give insights into real usage and challenges at scale. We will end the day with an open discussion, including a panel consisting of academic and industrial researchers."
   ],
@@ -897,23 +965,23 @@
    ]
   ],
   "cfp": [
-   "We invite you to submit your novel contributions (submission page) in the area of conversational AI in NeurIPS style with maximum of 8 pages excluding the references. You can add supplementary material in addition to 8 pages, but reviewers are not required to review the extra material (e.g. your paper should stand on its own without the supplementary material). Selected papers will be presented through invited talks or posters. Maximum allowed size of posters is 36 x 48 inch (91 x 122 cm). Posters should be on light weight paper and not laminated . Submitting papers that are under review by other venues are ok. However, please avoid submitting already peer-reviewed and published work. Notice that our workshop is not archival. However, accepted submission will be hosted on this website similar to last year’s workshop. Given authors concern around posting their submissions to arXiv the organizing committed decided to lift the anonymity requirement for our workshop. This means the anonymity will be optional and decided by the authors. Hence, you can post your submissions to arXiv. For further questions, feel free to reach out to co-chairs through email (alborz dot geramifard at gmail dot com; jdw at alumni dot princeton dot edu)."
+   "We invite you to submit your novel contributions (<a href=\"https://cmt3.research.microsoft.com/CONVERSATIONALAI2019\" target=\"_blank\" rel=\"noopener\">submission page</a>) in the area of conversational AI in NeurIPS style with maximum of 8 pages excluding the references. You can add supplementary material in addition to 8 pages, but reviewers are not required to review the extra material (e.g. your paper should stand on its own without the supplementary material). Selected papers will be presented through invited talks or posters. Maximum allowed size of posters is 36 x 48 inch (91 x 122 cm). Posters should be on light weight paper and not laminated . Submitting papers that are under review by other venues are ok. However, please avoid submitting already peer-reviewed and published work. Notice that our workshop is not archival. However, accepted submission will be hosted on this website similar to <a href=\"2018.html\" target=\"_blank\" rel=\"noopener\">last year’s workshop</a>. Given authors concern around posting their submissions to arXiv the organizing committed decided to lift the anonymity requirement for our workshop. This means the anonymity will be optional and decided by the authors. Hence, you can post your submissions to arXiv. For further questions, feel free to reach out to co-chairs through email (alborz dot geramifard at gmail dot com; jdw at alumni dot princeton dot edu)."
   ],
   "dates": [
    [
     "_note",
-    "This year, we will have two submission phases due to limitation for allocating tickets to authors. We advise all workshop attendees to enter their names for the NeurIPS lottery here."
+    "This year, we will have two submission phases due to limitation for allocating tickets to authors. We advise all workshop attendees to enter their names for the NeurIPS lottery <a href=\"https://neurips.cc/\" target=\"_blank\" rel=\"noopener\">here</a>."
    ],
    [
     "_note",
     "Phase 1 (Early Submission) : Please follow the early submission, only if you did not win a ticket in the NeurIPS lottery. We will notify accepted authors by October 1st and provide tickets to the author presenting the paper."
    ],
    [
-    "Submission",
-    "21st September 2019 11:59 PM EST"
+    "Submission (phase 1, early)",
+    "21st September 2019 11:59 PM EST <a href=\"https://cmt3.research.microsoft.com/CONVERSATIONALAI2019\" target=\"_blank\" rel=\"noopener\">submission page ↗</a>"
    ],
    [
-    "Notification",
+    "Notification (phase 1, early)",
     "1st October 2019"
    ],
    [
@@ -921,11 +989,11 @@
     "Phase 2 (Regular Submission) : If you already acquired the NeurIPS ticket, please follow the regular submission process below."
    ],
    [
-    "Submission",
-    "1st October 2019 11:59 PM EST"
+    "Submission (phase 2, regular)",
+    "1st October 2019 11:59 PM EST <a href=\"https://cmt3.research.microsoft.com/CONVERSATIONALAI2019\" target=\"_blank\" rel=\"noopener\">submission page ↗</a>"
    ],
    [
-    "Notification",
+    "Notification (phase 2, regular)",
     "1st November 2019"
    ],
    [
@@ -1138,7 +1206,7 @@
    },
    {
     "time": "5:00-5:50",
-    "what": "Panel / Open Discussion - All invited speakers (submit questions here )",
+    "what": "Panel / Open Discussion - All invited speakers (submit questions <a href=\"https://www.tricider.com/brainstorming/2cifvidgPS7\" target=\"_blank\" rel=\"noopener\">here</a> )",
     "links": []
    },
    {
@@ -1402,6 +1470,18 @@
    "Tyler Lu (Google)",
    "Deepak Ramachandran (Google)"
   ],
-  "best_paper_note": ""
+  "best_paper_note": "",
+  "photos": [
+   {
+    "src": "assets/photos/2019-best-paper.jpg",
+    "caption": "Best Paper Award: Attention over Parameters for Dialogue Systems"
+   }
+  ],
+  "venue_image": "assets/venues/2019.jpg",
+  "venue_credit": {
+   "artist": "Robert Linsdell from St. Andrews, Canada",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File%3AVancouver_Convention_Centre%2C_British_Columbia_%28470080%29_%289441435593%29.jpg"
+  }
  }
 }

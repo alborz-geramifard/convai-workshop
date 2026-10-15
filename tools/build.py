@@ -7,9 +7,11 @@ YEARS=[('19','2019'),('18','2018'),('17','2017')]
 ICON_CAL='<svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>'
 ICON_PIN='<svg viewBox="0 0 24 24"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0z"/><circle cx="12" cy="10" r="3"/></svg>'
 ICON_PDF='<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/></svg>'
-def person(n,a,u):
+def person(n,a,u,p=None):
     name=f'<a href="{e(u)}" target="_blank" rel="noopener">{e(n)}</a>' if u else e(n)
-    return f'<div class="person"><b>{name}</b><span>{e(a)}</span></div>'
+    ini=''.join(w[0] for w in n.replace('-',' ').split()[:2]).upper()
+    pic=f'<img class="face" src="{e(p)}" alt="" loading="lazy">' if p else f'<span class="face ini">{e(ini)}</span>'
+    return f'<div class="person">{pic}<div><b>{name}</b><span>{e(a)}</span></div></div>'
 def rail(cur):
     out=[]
     for k,y in YEARS:
@@ -27,20 +29,25 @@ def sched(items):
         if not it['time']:
             out.append(f'<li class="sess">{links}</li>'); continue
         cls=' class="brk"' if re.search(r'break|lunch|poster session|hangup',it['what'],re.I) else ''
-        out.append(f'<li{cls}><span class="t">{e(it["time"])}</span><span>{e(it["what"])}<span class="l">{links}</span></span></li>')
+        out.append(f'<li{cls}><span class="t">{e(it["time"])}</span><span>{it["what"]}<span class="l">{links}</span></span></li>')
     return '<ul class="sched">'+''.join(out)+'</ul>'
 def page(k):
     d=D[k]; y=str(d['year'])
-    desc=''.join(f'<p>{e(p)}</p>' for p in d['description'])
-    dates=''.join(f'<div><div class="dl">{e(l)}</div><div class="dv">{e(v)}</div></div>' for l,v in d['dates'] if l!='_note')
-    notes=''.join(f'<p class="note">{e(v)}</p>' for l,v in d['dates'] if l=='_note' and not v.endswith(':'))
-    speakers=''.join(person(n,a,u) for n,a,u in d['speakers'])
-    chairs=''.join(person(n,a,u) for n,a,u in d['chairs']); orgs=''.join(person(n,a,u) for n,a,u in d['organizers'])
+    desc=''.join(f'<p>{p}</p>' for p in d['description'])
+    dates=''.join(f'<div><div class="dl">{e(l)}</div><div class="dv">{v}</div></div>' for l,v in d['dates'] if l!='_note')
+    notes=''.join(f'<p class="note">{v}</p>' for l,v in d['dates'] if l=='_note' and not v.endswith(':'))
+    speakers=''.join(person(*x) for x in d['speakers'])
+    chairs=''.join(person(*x) for x in d['chairs']); orgs=''.join(person(*x) for x in d['organizers'])
     talks=''.join(paper(p) for p in d['talks']); posters=''.join(paper(p) for p in d['posters'])
     pc=''.join(f'<div>{e(p)}</div>' for p in d['pc'])
+    gallery=''.join(f'<figure><img src="{e(ph["src"])}" alt="{e(ph["caption"])}" loading="lazy"><figcaption>{e(ph["caption"])}</figcaption></figure>' for ph in d.get('photos',[]))
+    photos_sec=f'<section id="photos"><div class="eyebrow">On the day</div><h2>Photos</h2><div class="gallery">{gallery}</div></section>' if gallery else ''
+    photos_tab='<a href="#photos">Photos</a>' if gallery else ''
     bp=f'<p class="note">{e(d["best_paper_note"])}</p>' if d.get('best_paper_note') else ''
     stats=''.join(f'<span>{e(s.strip())}</span>' for s in d['stats'].split('·'))
     logo='assets/logo.png'
+    vc=d.get('venue_credit') or {}
+    credit=(f'<a class="credit" href="{e(vc["page"])}" target="_blank" rel="noopener">{e(d["location"].split(",")[0])} · photo: {e(vc["artist"][:40])} ({e(vc["license"])})</a>' if vc.get('artist') else f'<span class="credit">{e(d["location"].split(",")[0])}</span>')
     return f'''<!doctype html>
 <html lang="en">
 <head>
@@ -53,25 +60,26 @@ def page(k):
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-<header class="banner"><div class="in"><img src="{logo}" alt=""><div class="t">ConvAI</div><div class="s">Workshop on <b>Conversational AI</b> · Today's Practice and Tomorrow's Potential</div></div></header>
+<header class="banner"><div class="in"><img src="{logo}" alt=""><div class="t">Conversational AI</div></div></header>
 <div class="layout">
   <aside class="rail">{rail(k)}</aside>
   <main class="main">
-    <span class="crumb">{d['conf']}</span>
-    <div class="hero">
+    <div class="hero photo" style="background-image:url('{e(d.get("venue_image",""))}');background-position:{e(d.get("venue_focus","center"))}">
+      {credit}
       <div class="k">{d['conf']} workshop · {d['edition']} edition</div>
       <h1>Conversational AI: Today's Practice and Tomorrow's Potential</h1>
       <div class="meta"><span>{ICON_CAL}{e(d['date'])}</span><span>{ICON_PIN}<a href="{e(d['location_url'])}" target="_blank" rel="noopener">{e(d['location'])}</a>, {e(d['city'])}</span></div>
       <div class="stats">{stats}</div>
     </div>
-    <nav class="tabs"><a href="#overview">Overview</a><a href="#speakers">Speakers</a><a href="#schedule">Schedule</a><a href="#papers">Accepted papers</a><a href="#cfp">Call for papers</a><a href="#organizers">Organizers</a><a href="#committee">Program committee</a></nav>
+    <nav class="tabs"><a href="#overview">Overview</a><a href="#speakers">Speakers</a><a href="#schedule">Schedule</a><a href="#papers">Accepted papers</a><a href="#cfp">Call for papers</a><a href="#organizers">Organizers</a><a href="#committee">Program committee</a>{photos_tab}</nav>
     <section id="overview"><div class="eyebrow">Overview</div><h2>About the workshop</h2><div class="card desc">{desc}</div></section>
     <section id="speakers"><div class="eyebrow">Invited</div><h2>Speakers</h2><div class="people">{speakers}</div></section>
     <section id="schedule"><div class="eyebrow">Program</div><h2>Schedule</h2>{sched(d['schedule'])}</section>
     <section id="papers"><div class="eyebrow">Contributed</div><h2>Accepted papers</h2>{bp}<div class="sub">Talks</div><ol class="papers">{talks}</ol><div class="sub">Posters</div><ol class="papers">{posters}</ol></section>
-    <section id="cfp"><div class="eyebrow">Archive</div><h2>Call for papers</h2><div class="card desc">{''.join(f'<p>{e(p)}</p>' for p in d['cfp'])}{notes}</div><div class="sub">Important dates</div><div class="dates">{dates}</div></section>
+    <section id="cfp"><div class="eyebrow">Archive</div><h2>Call for papers</h2><div class="card desc">{''.join(f'<p>{p}</p>' for p in d['cfp'])}{notes}</div><div class="sub">Important dates</div><div class="dates">{dates}</div></section>
     <section id="organizers"><div class="eyebrow">People</div><h2>Organizers</h2><div class="sub">Co-chairs</div><div class="people">{chairs}</div><div class="sub">Organizing committee</div><div class="people">{orgs}</div></section>
     <section id="committee"><div class="eyebrow">Reviewers</div><h2>Program committee</h2><div class="pc">{pc}</div></section>
+    {photos_sec}
   </main>
 </div>
 <footer>Conversational AI Workshop series, NeurIPS 2017 – 2019 · Organized by <a href="https://alborz-geramifard.com">Alborz Geramifard</a> and colleagues · Archived from the original workshop websites.</footer>

@@ -47,7 +47,7 @@ def page(k):
     stats=''.join(f'<span>{e(s.strip())}</span>' for s in d['stats'].split('·'))
     logo='assets/logo.png'
     vc=d.get('venue_credit') or {}
-    credit=(f'<a class="credit" href="{e(vc["page"])}" target="_blank" rel="noopener">{e(d["location"].split(",")[0])} · photo: {e(vc["artist"][:40])} ({e(vc["license"])})</a>' if vc.get('artist') else f'<span class="credit">{e(d["location"].split(",")[0])}</span>')
+    credit=(f'<a class="credit" href="{e(vc["page"])}" target="_blank" rel="noopener">Photo: {e(vc["artist"][:40])} ({e(vc["license"])})</a>' if vc.get('artist') else '')
     return f'''<!doctype html>
 <html lang="en">
 <head>

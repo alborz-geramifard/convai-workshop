@@ -48,10 +48,11 @@ h2{font-size:1.75rem;margin-bottom:14px}
 .person b a{color:var(--ink)}
 .sub{font-family:"Space Grotesk",sans-serif;font-size:1.1rem;margin:18px 0 10px;color:var(--teal-ink)}
 .sched{list-style:none;margin:0;padding:0;background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
-.sched li{display:grid;grid-template-columns:120px 1fr;gap:16px;padding:10px 18px;border-top:1px solid var(--line);font-size:.95rem}
+.sched li{display:grid;grid-template-columns:120px 1fr;gap:16px;padding:10px 18px;border-top:1px solid rgba(255,255,255,.7);font-size:.95rem;background:#eef4fb;border-left:3px solid #9fbde3}
 .sched li:first-child{border-top:0}
-.sched li.sess{background:var(--teal-soft);color:var(--teal-ink);font-weight:600;grid-template-columns:1fr}
-.sched li.brk{background:#fafcfc;color:var(--muted)}
+.sched li.sess{background:#dfe9f6;color:#2b4a72;font-weight:600;grid-template-columns:1fr;border-left-color:#5b86c4}
+.sched li.brk{background:#edf7ef;color:#3f6b4a;border-left-color:#9ccfa8}
+.sched li.brk .t{color:#6b8f74}
 .sched .t{font-variant-numeric:tabular-nums;color:var(--muted);white-space:nowrap}
 .sched .l a{margin-left:8px;font-size:.82rem;font-weight:600}
 .papers{list-style:none;margin:0;padding:0;display:grid;gap:10px}

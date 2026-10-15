@@ -1,6 +1,7 @@
 """Render 2017.html / 2018.html / 2019.html / index.html from data/convai.json."""
-import json, html, os, re
+import json, html, os, re, hashlib
 ROOT=os.path.join(os.path.dirname(__file__),'..')
+CSSV=hashlib.md5(open(os.path.join(ROOT,'assets','style.css'),'rb').read()).hexdigest()[:8]
 D=json.load(open(os.path.join(ROOT,'data','convai.json')))
 e=html.escape
 YEARS=[('19','2019'),('18','2018'),('17','2017')]
@@ -57,7 +58,7 @@ def page(k):
 <link rel="icon" href="{logo}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/style.css?v={CSSV}">
 </head>
 <body>
 <header class="banner"><div class="in"><img src="{logo}" alt=""><div class="t">Conversational AI</div></div></header>

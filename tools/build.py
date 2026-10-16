@@ -56,6 +56,14 @@ def page(k):
 <title>Conversational AI Workshop · {d['conf']}</title>
 <meta name="description" content="{d['edition']} Conversational AI workshop at {d['conf']}: Today's Practice and Tomorrow's Potential.">
 <link rel="icon" href="{logo}">
+<link rel="canonical" href="https://alborz-geramifard.com/convai-workshop/{y}.html">
+<meta property="og:type" content="website"><meta property="og:site_name" content="Conversational AI Workshop">
+<meta property="og:title" content="Conversational AI Workshop · {d['conf']}"><meta property="og:description" content="{d['edition']} Conversational AI workshop at {d['conf']}: Today's Practice and Tomorrow's Potential.">
+<meta property="og:url" content="https://alborz-geramifard.com/convai-workshop/{y}.html"><meta property="og:image" content="https://alborz-geramifard.com/convai-workshop/{e(d.get('venue_image',''))}">
+<meta name="twitter:card" content="summary_large_image">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N1V1ZB8K1T"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag('js',new Date());gtag('config','G-N1V1ZB8K1T');</script>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css?v={CSSV}">
